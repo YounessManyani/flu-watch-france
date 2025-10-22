@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Card } from "@/components/ui/card";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
-import { FranceMap } from "@/components/FranceMap";
+import { FranceMapSVG } from "@/components/FranceMapSVG";
 import { DepartmentInfo } from "@/components/DepartmentInfo";
 import { getAvailableYears } from "@/utils/dataParser";
 import { Calendar } from "lucide-react";
@@ -43,7 +43,7 @@ const Visualization = () => {
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
           <Card className="lg:col-span-2 p-6">
-            <FranceMap
+            <FranceMapSVG
               selectedDepartment={selectedDepartment}
               onDepartmentClick={setSelectedDepartment}
               year={selectedYear}
