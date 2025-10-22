@@ -1,0 +1,3362 @@
+[
+  {
+    "année": 2020,
+    "département": "Ain",
+    "grippe_65_ans_et_plus": 57.9,
+    "grippe_moins_de_65_ans_à_risque": 39.2,
+    "taux hospitalisation": 342
+  },
+  {
+    "année": 2020,
+    "département": "Aisne",
+    "grippe_65_ans_et_plus": 61.6,
+    "grippe_moins_de_65_ans_à_risque": 42.3,
+    "taux hospitalisation": 344
+  },
+  {
+    "année": 2020,
+    "département": "Allier",
+    "grippe_65_ans_et_plus": 61.8,
+    "grippe_moins_de_65_ans_à_risque": 42.1,
+    "taux hospitalisation": 190
+  },
+  {
+    "année": 2020,
+    "département": "Alpes-de-Haute-Provence",
+    "grippe_65_ans_et_plus": 53.3,
+    "grippe_moins_de_65_ans_à_risque": 34.8,
+    "taux hospitalisation": 751
+  },
+  {
+    "année": 2020,
+    "département": "Alpes-Maritimes",
+    "grippe_65_ans_et_plus": 54.8,
+    "grippe_moins_de_65_ans_à_risque": 32.2,
+    "taux hospitalisation": 677
+  },
+  {
+    "année": 2020,
+    "département": "Ardèche",
+    "grippe_65_ans_et_plus": 55,
+    "grippe_moins_de_65_ans_à_risque": 36.9,
+    "taux hospitalisation": 133
+  },
+  {
+    "année": 2020,
+    "département": "Ardennes",
+    "grippe_65_ans_et_plus": 63,
+    "grippe_moins_de_65_ans_à_risque": 42.8,
+    "taux hospitalisation": 219
+  },
+  {
+    "année": 2020,
+    "département": "Ariège",
+    "grippe_65_ans_et_plus": 55.2,
+    "grippe_moins_de_65_ans_à_risque": 33.8,
+    "taux hospitalisation": 202
+  },
+  {
+    "année": 2020,
+    "département": "Aube",
+    "grippe_65_ans_et_plus": 60.4,
+    "grippe_moins_de_65_ans_à_risque": 39.5,
+    "taux hospitalisation": 327
+  },
+  {
+    "année": 2020,
+    "département": "Aude",
+    "grippe_65_ans_et_plus": 58.6,
+    "grippe_moins_de_65_ans_à_risque": 36.5,
+    "taux hospitalisation": 216
+  },
+  {
+    "année": 2020,
+    "département": "Aveyron",
+    "grippe_65_ans_et_plus": 60.3,
+    "grippe_moins_de_65_ans_à_risque": 41.6,
+    "taux hospitalisation": 25
+  },
+  {
+    "année": 2020,
+    "département": "Bas-Rhin",
+    "grippe_65_ans_et_plus": 59.6,
+    "grippe_moins_de_65_ans_à_risque": 38.8,
+    "taux hospitalisation": 503
+  },
+  {
+    "année": 2020,
+    "département": "Bouches-du-Rhône",
+    "grippe_65_ans_et_plus": 57.3,
+    "grippe_moins_de_65_ans_à_risque": 35,
+    "taux hospitalisation": 821
+  },
+  {
+    "année": 2020,
+    "département": "Calvados",
+    "grippe_65_ans_et_plus": 64.5,
+    "grippe_moins_de_65_ans_à_risque": 44.4,
+    "taux hospitalisation": 162
+  },
+  {
+    "année": 2020,
+    "département": "Cantal",
+    "grippe_65_ans_et_plus": 64.1,
+    "grippe_moins_de_65_ans_à_risque": 47.8,
+    "taux hospitalisation": 338
+  },
+  {
+    "année": 2020,
+    "département": "Charente",
+    "grippe_65_ans_et_plus": 60.9,
+    "grippe_moins_de_65_ans_à_risque": 41,
+    "taux hospitalisation": 54
+  },
+  {
+    "année": 2020,
+    "département": "Charente-Maritime",
+    "grippe_65_ans_et_plus": 60.9,
+    "grippe_moins_de_65_ans_à_risque": 39.4,
+    "taux hospitalisation": 392
+  },
+  {
+    "année": 2020,
+    "département": "Cher",
+    "grippe_65_ans_et_plus": 61.4,
+    "grippe_moins_de_65_ans_à_risque": 41,
+    "taux hospitalisation": 19
+  },
+  {
+    "année": 2020,
+    "département": "Corrèze",
+    "grippe_65_ans_et_plus": 60.9,
+    "grippe_moins_de_65_ans_à_risque": 41.7,
+    "taux hospitalisation": 115
+  },
+  {
+    "année": 2020,
+    "département": "Corse-du-Sud",
+    "grippe_65_ans_et_plus": 53.9,
+    "grippe_moins_de_65_ans_à_risque": 33,
+    "taux hospitalisation": 599
+  },
+  {
+    "année": 2020,
+    "département": "Côte-d'Or",
+    "grippe_65_ans_et_plus": 64.5,
+    "grippe_moins_de_65_ans_à_risque": 44.1,
+    "taux hospitalisation": 548
+  },
+  {
+    "année": 2020,
+    "département": "Côtes-d'Armor",
+    "grippe_65_ans_et_plus": 63.9,
+    "grippe_moins_de_65_ans_à_risque": 39.1,
+    "taux hospitalisation": 445
+  },
+  {
+    "année": 2020,
+    "département": "Creuse",
+    "grippe_65_ans_et_plus": 60.9,
+    "grippe_moins_de_65_ans_à_risque": 45.6,
+    "taux hospitalisation": 384
+  },
+  {
+    "année": 2020,
+    "département": "Deux-Sèvres",
+    "grippe_65_ans_et_plus": 60.1,
+    "grippe_moins_de_65_ans_à_risque": 41.1,
+    "taux hospitalisation": 186
+  },
+  {
+    "année": 2020,
+    "département": "Dordogne",
+    "grippe_65_ans_et_plus": 56.6,
+    "grippe_moins_de_65_ans_à_risque": 37.1,
+    "taux hospitalisation": 86
+  },
+  {
+    "année": 2020,
+    "département": "Doubs",
+    "grippe_65_ans_et_plus": 60.6,
+    "grippe_moins_de_65_ans_à_risque": 40.5,
+    "taux hospitalisation": 377
+  },
+  {
+    "année": 2020,
+    "département": "Drôme",
+    "grippe_65_ans_et_plus": 57.9,
+    "grippe_moins_de_65_ans_à_risque": 38.9,
+    "taux hospitalisation": 456
+  },
+  {
+    "année": 2020,
+    "département": "Essonne",
+    "grippe_65_ans_et_plus": 61.3,
+    "grippe_moins_de_65_ans_à_risque": 35.4,
+    "taux hospitalisation": 397
+  },
+  {
+    "année": 2020,
+    "département": "Eure",
+    "grippe_65_ans_et_plus": 60.5,
+    "grippe_moins_de_65_ans_à_risque": 41.3,
+    "taux hospitalisation": 403
+  },
+  {
+    "année": 2020,
+    "département": "Eure-et-Loir",
+    "grippe_65_ans_et_plus": 61.7,
+    "grippe_moins_de_65_ans_à_risque": 38.9,
+    "taux hospitalisation": 436
+  },
+  {
+    "année": 2020,
+    "département": "Finistère",
+    "grippe_65_ans_et_plus": 69.3,
+    "grippe_moins_de_65_ans_à_risque": 44.4,
+    "taux hospitalisation": 470
+  },
+  {
+    "année": 2020,
+    "département": "Gard",
+    "grippe_65_ans_et_plus": 59.5,
+    "grippe_moins_de_65_ans_à_risque": 37.5,
+    "taux hospitalisation": 177
+  },
+  {
+    "année": 2020,
+    "département": "Gers",
+    "grippe_65_ans_et_plus": 59.9,
+    "grippe_moins_de_65_ans_à_risque": 40.2,
+    "taux hospitalisation": 56
+  },
+  {
+    "année": 2020,
+    "département": "Gironde",
+    "grippe_65_ans_et_plus": 64.5,
+    "grippe_moins_de_65_ans_à_risque": 41.3,
+    "taux hospitalisation": 198
+  },
+  {
+    "année": 2020,
+    "département": "Haute-Corse",
+    "grippe_65_ans_et_plus": 56,
+    "grippe_moins_de_65_ans_à_risque": 36,
+    "taux hospitalisation": 278
+  },
+  {
+    "année": 2020,
+    "département": "Haute-Garonne",
+    "grippe_65_ans_et_plus": 63.5,
+    "grippe_moins_de_65_ans_à_risque": 38.7,
+    "taux hospitalisation": 303
+  },
+  {
+    "année": 2020,
+    "département": "Haute-Loire",
+    "grippe_65_ans_et_plus": 55.8,
+    "grippe_moins_de_65_ans_à_risque": 41.6,
+    "taux hospitalisation": 306
+  },
+  {
+    "année": 2020,
+    "département": "Haute-Marne",
+    "grippe_65_ans_et_plus": 59.2,
+    "grippe_moins_de_65_ans_à_risque": 41.6,
+    "taux hospitalisation": 1001
+  },
+  {
+    "année": 2020,
+    "département": "Hautes-Alpes",
+    "grippe_65_ans_et_plus": 55,
+    "grippe_moins_de_65_ans_à_risque": 36,
+    "taux hospitalisation": 1033
+  },
+  {
+    "année": 2020,
+    "département": "Haute-Saône",
+    "grippe_65_ans_et_plus": 57.7,
+    "grippe_moins_de_65_ans_à_risque": 39.6,
+    "taux hospitalisation": 136
+  },
+  {
+    "année": 2020,
+    "département": "Haute-Savoie",
+    "grippe_65_ans_et_plus": 55,
+    "grippe_moins_de_65_ans_à_risque": 35.6,
+    "taux hospitalisation": 561
+  },
+  {
+    "année": 2020,
+    "département": "Hautes-Pyrénées",
+    "grippe_65_ans_et_plus": 60,
+    "grippe_moins_de_65_ans_à_risque": 38.6,
+    "taux hospitalisation": 260
+  },
+  {
+    "année": 2020,
+    "département": "Haute-Vienne",
+    "grippe_65_ans_et_plus": 64.2,
+    "grippe_moins_de_65_ans_à_risque": 45.9,
+    "taux hospitalisation": 635
+  },
+  {
+    "année": 2020,
+    "département": "Haut-Rhin",
+    "grippe_65_ans_et_plus": 53.2,
+    "grippe_moins_de_65_ans_à_risque": 34.1,
+    "taux hospitalisation": 437
+  },
+  {
+    "année": 2020,
+    "département": "Hauts-de-Seine",
+    "grippe_65_ans_et_plus": 58.3,
+    "grippe_moins_de_65_ans_à_risque": 35.5,
+    "taux hospitalisation": 462
+  },
+  {
+    "année": 2020,
+    "département": "Hérault",
+    "grippe_65_ans_et_plus": 60.7,
+    "grippe_moins_de_65_ans_à_risque": 37.3,
+    "taux hospitalisation": 273
+  },
+  {
+    "année": 2020,
+    "département": "Ille-et-Vilaine",
+    "grippe_65_ans_et_plus": 64.3,
+    "grippe_moins_de_65_ans_à_risque": 40.4,
+    "taux hospitalisation": 324
+  },
+  {
+    "année": 2020,
+    "département": "Indre",
+    "grippe_65_ans_et_plus": 58.4,
+    "grippe_moins_de_65_ans_à_risque": 40.2,
+    "taux hospitalisation": 143
+  },
+  {
+    "année": 2020,
+    "département": "Indre-et-Loire",
+    "grippe_65_ans_et_plus": 65.2,
+    "grippe_moins_de_65_ans_à_risque": 45.2,
+    "taux hospitalisation": 279
+  },
+  {
+    "année": 2020,
+    "département": "Isère",
+    "grippe_65_ans_et_plus": 60.5,
+    "grippe_moins_de_65_ans_à_risque": 41.9,
+    "taux hospitalisation": 461
+  },
+  {
+    "année": 2020,
+    "département": "Jura",
+    "grippe_65_ans_et_plus": 57.2,
+    "grippe_moins_de_65_ans_à_risque": 40.6,
+    "taux hospitalisation": 210
+  },
+  {
+    "année": 2020,
+    "département": "Landes",
+    "grippe_65_ans_et_plus": 61.5,
+    "grippe_moins_de_65_ans_à_risque": 38.3,
+    "taux hospitalisation": 198
+  },
+  {
+    "année": 2020,
+    "département": "Loire",
+    "grippe_65_ans_et_plus": 58.3,
+    "grippe_moins_de_65_ans_à_risque": 38.9,
+    "taux hospitalisation": 535
+  },
+  {
+    "année": 2020,
+    "département": "Loire-Atlantique",
+    "grippe_65_ans_et_plus": 64.9,
+    "grippe_moins_de_65_ans_à_risque": 40.2,
+    "taux hospitalisation": 333
+  },
+  {
+    "année": 2020,
+    "département": "Loiret",
+    "grippe_65_ans_et_plus": 64.6,
+    "grippe_moins_de_65_ans_à_risque": 40.5,
+    "taux hospitalisation": 305
+  },
+  {
+    "année": 2020,
+    "département": "Loir-et-Cher",
+    "grippe_65_ans_et_plus": 61.8,
+    "grippe_moins_de_65_ans_à_risque": 42,
+    "taux hospitalisation": 0
+  },
+  {
+    "année": 2020,
+    "département": "Lot",
+    "grippe_65_ans_et_plus": 56.3,
+    "grippe_moins_de_65_ans_à_risque": 37.2,
+    "taux hospitalisation": 178
+  },
+  {
+    "année": 2020,
+    "département": "Lot-et-Garonne",
+    "grippe_65_ans_et_plus": 57.3,
+    "grippe_moins_de_65_ans_à_risque": 35,
+    "taux hospitalisation": 300
+  },
+  {
+    "année": 2020,
+    "département": "Lozère",
+    "grippe_65_ans_et_plus": 54.5,
+    "grippe_moins_de_65_ans_à_risque": 38.8,
+    "taux hospitalisation": 263
+  },
+  {
+    "année": 2020,
+    "département": "Maine-et-Loire",
+    "grippe_65_ans_et_plus": 63.7,
+    "grippe_moins_de_65_ans_à_risque": 39.5,
+    "taux hospitalisation": 363
+  },
+  {
+    "année": 2020,
+    "département": "Manche",
+    "grippe_65_ans_et_plus": 64,
+    "grippe_moins_de_65_ans_à_risque": 45.4,
+    "taux hospitalisation": 213
+  },
+  {
+    "année": 2020,
+    "département": "Marne",
+    "grippe_65_ans_et_plus": 64.3,
+    "grippe_moins_de_65_ans_à_risque": 44.2,
+    "taux hospitalisation": 225
+  },
+  {
+    "année": 2020,
+    "département": "Mayenne",
+    "grippe_65_ans_et_plus": 60.1,
+    "grippe_moins_de_65_ans_à_risque": 39.6,
+    "taux hospitalisation": 147
+  },
+  {
+    "année": 2020,
+    "département": "Meurthe-et-Moselle",
+    "grippe_65_ans_et_plus": 65,
+    "grippe_moins_de_65_ans_à_risque": 45,
+    "taux hospitalisation": 349
+  },
+  {
+    "année": 2020,
+    "département": "Meuse",
+    "grippe_65_ans_et_plus": 61,
+    "grippe_moins_de_65_ans_à_risque": 41.7,
+    "taux hospitalisation": 290
+  },
+  {
+    "année": 2020,
+    "département": "Morbihan",
+    "grippe_65_ans_et_plus": 63.8,
+    "grippe_moins_de_65_ans_à_risque": 39.2,
+    "taux hospitalisation": 233
+  },
+  {
+    "année": 2020,
+    "département": "Moselle",
+    "grippe_65_ans_et_plus": 59.4,
+    "grippe_moins_de_65_ans_à_risque": 39.6,
+    "taux hospitalisation": 232
+  },
+  {
+    "année": 2020,
+    "département": "Nièvre",
+    "grippe_65_ans_et_plus": 60.8,
+    "grippe_moins_de_65_ans_à_risque": 41.6,
+    "taux hospitalisation": 268
+  },
+  {
+    "année": 2020,
+    "département": "Nord",
+    "grippe_65_ans_et_plus": 61.1,
+    "grippe_moins_de_65_ans_à_risque": 42.8,
+    "taux hospitalisation": 382
+  },
+  {
+    "année": 2020,
+    "département": "Oise",
+    "grippe_65_ans_et_plus": 58.7,
+    "grippe_moins_de_65_ans_à_risque": 38,
+    "taux hospitalisation": 669
+  },
+  {
+    "année": 2020,
+    "département": "Orne",
+    "grippe_65_ans_et_plus": 59.3,
+    "grippe_moins_de_65_ans_à_risque": 41.4,
+    "taux hospitalisation": 370
+  },
+  {
+    "année": 2020,
+    "département": "Paris",
+    "grippe_65_ans_et_plus": 55.8,
+    "grippe_moins_de_65_ans_à_risque": 35.3,
+    "taux hospitalisation": 279
+  },
+  {
+    "année": 2020,
+    "département": "Pas-de-Calais",
+    "grippe_65_ans_et_plus": 62.6,
+    "grippe_moins_de_65_ans_à_risque": 46.9,
+    "taux hospitalisation": 171
+  },
+  {
+    "année": 2020,
+    "département": "Puy-de-Dôme",
+    "grippe_65_ans_et_plus": 62.8,
+    "grippe_moins_de_65_ans_à_risque": 44.1,
+    "taux hospitalisation": 31
+  },
+  {
+    "année": 2020,
+    "département": "Pyrénées-Atlantiques",
+    "grippe_65_ans_et_plus": 63.1,
+    "grippe_moins_de_65_ans_à_risque": 38.9,
+    "taux hospitalisation": 325
+  },
+  {
+    "année": 2020,
+    "département": "Pyrénées-Orientales",
+    "grippe_65_ans_et_plus": 55.9,
+    "grippe_moins_de_65_ans_à_risque": 33.5,
+    "taux hospitalisation": 208
+  },
+  {
+    "année": 2020,
+    "département": "Rhône",
+    "grippe_65_ans_et_plus": 61.6,
+    "grippe_moins_de_65_ans_à_risque": 39.8,
+    "taux hospitalisation": 381
+  },
+  {
+    "année": 2020,
+    "département": "Saône-et-Loire",
+    "grippe_65_ans_et_plus": 60.1,
+    "grippe_moins_de_65_ans_à_risque": 42.4,
+    "taux hospitalisation": 291
+  },
+  {
+    "année": 2020,
+    "département": "Sarthe",
+    "grippe_65_ans_et_plus": 62.1,
+    "grippe_moins_de_65_ans_à_risque": 38.8,
+    "taux hospitalisation": 336
+  },
+  {
+    "année": 2020,
+    "département": "Savoie",
+    "grippe_65_ans_et_plus": 56.8,
+    "grippe_moins_de_65_ans_à_risque": 38.2,
+    "taux hospitalisation": 316
+  },
+  {
+    "année": 2020,
+    "département": "Seine-et-Marne",
+    "grippe_65_ans_et_plus": 60.1,
+    "grippe_moins_de_65_ans_à_risque": 36.1,
+    "taux hospitalisation": 457
+  },
+  {
+    "année": 2020,
+    "département": "Seine-Maritime",
+    "grippe_65_ans_et_plus": 65.9,
+    "grippe_moins_de_65_ans_à_risque": 45.2,
+    "taux hospitalisation": 211
+  },
+  {
+    "année": 2020,
+    "département": "Seine-Saint-Denis",
+    "grippe_65_ans_et_plus": 50.3,
+    "grippe_moins_de_65_ans_à_risque": 30.2,
+    "taux hospitalisation": 494
+  },
+  {
+    "année": 2020,
+    "département": "Somme",
+    "grippe_65_ans_et_plus": 64.7,
+    "grippe_moins_de_65_ans_à_risque": 45.3,
+    "taux hospitalisation": 333
+  },
+  {
+    "année": 2020,
+    "département": "Tarn",
+    "grippe_65_ans_et_plus": 59.6,
+    "grippe_moins_de_65_ans_à_risque": 38.4,
+    "taux hospitalisation": 251
+  },
+  {
+    "année": 2020,
+    "département": "Tarn-et-Garonne",
+    "grippe_65_ans_et_plus": 60.3,
+    "grippe_moins_de_65_ans_à_risque": 39.4,
+    "taux hospitalisation": 95
+  },
+  {
+    "année": 2020,
+    "département": "Territoire de Belfort",
+    "grippe_65_ans_et_plus": 55.7,
+    "grippe_moins_de_65_ans_à_risque": 38.7,
+    "taux hospitalisation": 180
+  },
+  {
+    "année": 2020,
+    "département": "Val-de-Marne",
+    "grippe_65_ans_et_plus": 58.3,
+    "grippe_moins_de_65_ans_à_risque": 36,
+    "taux hospitalisation": 425
+  },
+  {
+    "année": 2020,
+    "département": "Val-d'Oise",
+    "grippe_65_ans_et_plus": 57,
+    "grippe_moins_de_65_ans_à_risque": 32.6,
+    "taux hospitalisation": 491
+  },
+  {
+    "année": 2020,
+    "département": "Var",
+    "grippe_65_ans_et_plus": 57.7,
+    "grippe_moins_de_65_ans_à_risque": 34.9,
+    "taux hospitalisation": 639
+  },
+  {
+    "année": 2020,
+    "département": "Vaucluse",
+    "grippe_65_ans_et_plus": 54.9,
+    "grippe_moins_de_65_ans_à_risque": 34.3,
+    "taux hospitalisation": 760
+  },
+  {
+    "année": 2020,
+    "département": "Vendée",
+    "grippe_65_ans_et_plus": 62.6,
+    "grippe_moins_de_65_ans_à_risque": 39.1,
+    "taux hospitalisation": 261
+  },
+  {
+    "année": 2020,
+    "département": "Vienne",
+    "grippe_65_ans_et_plus": 63.3,
+    "grippe_moins_de_65_ans_à_risque": 43.1,
+    "taux hospitalisation": 179
+  },
+  {
+    "année": 2020,
+    "département": "Vosges",
+    "grippe_65_ans_et_plus": 60.2,
+    "grippe_moins_de_65_ans_à_risque": 42.8,
+    "taux hospitalisation": 404
+  },
+  {
+    "année": 2020,
+    "département": "Yonne",
+    "grippe_65_ans_et_plus": 61,
+    "grippe_moins_de_65_ans_à_risque": 39.2,
+    "taux hospitalisation": 262
+  },
+  {
+    "année": 2020,
+    "département": "Yvelines",
+    "grippe_65_ans_et_plus": 59.9,
+    "grippe_moins_de_65_ans_à_risque": 35.7,
+    "taux hospitalisation": 299
+  },
+  {
+    "année": 2021,
+    "département": "Ain",
+    "grippe_65_ans_et_plus": 55.2,
+    "grippe_moins_de_65_ans_à_risque": 34.5,
+    "taux hospitalisation": 54
+  },
+  {
+    "année": 2021,
+    "département": "Aisne",
+    "grippe_65_ans_et_plus": 58.8,
+    "grippe_moins_de_65_ans_à_risque": 40.2,
+    "taux hospitalisation": 66
+  },
+  {
+    "année": 2021,
+    "département": "Allier",
+    "grippe_65_ans_et_plus": 57.8,
+    "grippe_moins_de_65_ans_à_risque": 38,
+    "taux hospitalisation": 90
+  },
+  {
+    "année": 2021,
+    "département": "Alpes-de-Haute-Provence",
+    "grippe_65_ans_et_plus": 50.3,
+    "grippe_moins_de_65_ans_à_risque": 31.9,
+    "taux hospitalisation": 86
+  },
+  {
+    "année": 2021,
+    "département": "Alpes-Maritimes",
+    "grippe_65_ans_et_plus": 51.5,
+    "grippe_moins_de_65_ans_à_risque": 28.1,
+    "taux hospitalisation": 43
+  },
+  {
+    "année": 2021,
+    "département": "Ardèche",
+    "grippe_65_ans_et_plus": 51.7,
+    "grippe_moins_de_65_ans_à_risque": 33.3,
+    "taux hospitalisation": 11
+  },
+  {
+    "année": 2021,
+    "département": "Ardennes",
+    "grippe_65_ans_et_plus": 62,
+    "grippe_moins_de_65_ans_à_risque": 41.3,
+    "taux hospitalisation": 30
+  },
+  {
+    "année": 2021,
+    "département": "Ariège",
+    "grippe_65_ans_et_plus": 51.5,
+    "grippe_moins_de_65_ans_à_risque": 31.4,
+    "taux hospitalisation": 52
+  },
+  {
+    "année": 2021,
+    "département": "Aube",
+    "grippe_65_ans_et_plus": 57.4,
+    "grippe_moins_de_65_ans_à_risque": 36.6,
+    "taux hospitalisation": 239
+  },
+  {
+    "année": 2021,
+    "département": "Aude",
+    "grippe_65_ans_et_plus": 55,
+    "grippe_moins_de_65_ans_à_risque": 32,
+    "taux hospitalisation": 23
+  },
+  {
+    "année": 2021,
+    "département": "Aveyron",
+    "grippe_65_ans_et_plus": 56.3,
+    "grippe_moins_de_65_ans_à_risque": 36.4,
+    "taux hospitalisation": 56
+  },
+  {
+    "année": 2021,
+    "département": "Bas-Rhin",
+    "grippe_65_ans_et_plus": 55.6,
+    "grippe_moins_de_65_ans_à_risque": 35.2,
+    "taux hospitalisation": 39
+  },
+  {
+    "année": 2021,
+    "département": "Bouches-du-Rhône",
+    "grippe_65_ans_et_plus": 52.8,
+    "grippe_moins_de_65_ans_à_risque": 29,
+    "taux hospitalisation": 86
+  },
+  {
+    "année": 2021,
+    "département": "Calvados",
+    "grippe_65_ans_et_plus": 61.8,
+    "grippe_moins_de_65_ans_à_risque": 39.3,
+    "taux hospitalisation": 50
+  },
+  {
+    "année": 2021,
+    "département": "Cantal",
+    "grippe_65_ans_et_plus": 60,
+    "grippe_moins_de_65_ans_à_risque": 42.6,
+    "taux hospitalisation": 20
+  },
+  {
+    "année": 2021,
+    "département": "Charente",
+    "grippe_65_ans_et_plus": 58.9,
+    "grippe_moins_de_65_ans_à_risque": 37.2,
+    "taux hospitalisation": 104
+  },
+  {
+    "année": 2021,
+    "département": "Charente-Maritime",
+    "grippe_65_ans_et_plus": 58.4,
+    "grippe_moins_de_65_ans_à_risque": 36.2,
+    "taux hospitalisation": 185
+  },
+  {
+    "année": 2021,
+    "département": "Cher",
+    "grippe_65_ans_et_plus": 58.3,
+    "grippe_moins_de_65_ans_à_risque": 36.6,
+    "taux hospitalisation": 86
+  },
+  {
+    "année": 2021,
+    "département": "Corrèze",
+    "grippe_65_ans_et_plus": 57.3,
+    "grippe_moins_de_65_ans_à_risque": 36.8,
+    "taux hospitalisation": 5
+  },
+  {
+    "année": 2021,
+    "département": "Corse-du-Sud",
+    "grippe_65_ans_et_plus": 48.1,
+    "grippe_moins_de_65_ans_à_risque": 27.6,
+    "taux hospitalisation": 5
+  },
+  {
+    "année": 2021,
+    "département": "Côte-d'Or",
+    "grippe_65_ans_et_plus": 60.9,
+    "grippe_moins_de_65_ans_à_risque": 39.3,
+    "taux hospitalisation": 27
+  },
+  {
+    "année": 2021,
+    "département": "Côtes-d'Armor",
+    "grippe_65_ans_et_plus": 60.8,
+    "grippe_moins_de_65_ans_à_risque": 34.2,
+    "taux hospitalisation": 5
+  },
+  {
+    "année": 2021,
+    "département": "Creuse",
+    "grippe_65_ans_et_plus": 55.6,
+    "grippe_moins_de_65_ans_à_risque": 40.1,
+    "taux hospitalisation": 0
+  },
+  {
+    "année": 2021,
+    "département": "Deux-Sèvres",
+    "grippe_65_ans_et_plus": 58.1,
+    "grippe_moins_de_65_ans_à_risque": 38.3,
+    "taux hospitalisation": 17
+  },
+  {
+    "année": 2021,
+    "département": "Dordogne",
+    "grippe_65_ans_et_plus": 54.9,
+    "grippe_moins_de_65_ans_à_risque": 35,
+    "taux hospitalisation": 82
+  },
+  {
+    "année": 2021,
+    "département": "Doubs",
+    "grippe_65_ans_et_plus": 56.1,
+    "grippe_moins_de_65_ans_à_risque": 35.2,
+    "taux hospitalisation": 0
+  },
+  {
+    "année": 2021,
+    "département": "Drôme",
+    "grippe_65_ans_et_plus": 53.6,
+    "grippe_moins_de_65_ans_à_risque": 33.3,
+    "taux hospitalisation": 33
+  },
+  {
+    "année": 2021,
+    "département": "Essonne",
+    "grippe_65_ans_et_plus": 59.2,
+    "grippe_moins_de_65_ans_à_risque": 30.9,
+    "taux hospitalisation": 74
+  },
+  {
+    "année": 2021,
+    "département": "Eure",
+    "grippe_65_ans_et_plus": 57.9,
+    "grippe_moins_de_65_ans_à_risque": 37.1,
+    "taux hospitalisation": 18
+  },
+  {
+    "année": 2021,
+    "département": "Eure-et-Loir",
+    "grippe_65_ans_et_plus": 59.6,
+    "grippe_moins_de_65_ans_à_risque": 35.4,
+    "taux hospitalisation": 53
+  },
+  {
+    "année": 2021,
+    "département": "Finistère",
+    "grippe_65_ans_et_plus": 66,
+    "grippe_moins_de_65_ans_à_risque": 39,
+    "taux hospitalisation": 15
+  },
+  {
+    "année": 2021,
+    "département": "Gard",
+    "grippe_65_ans_et_plus": 56,
+    "grippe_moins_de_65_ans_à_risque": 33,
+    "taux hospitalisation": 101
+  },
+  {
+    "année": 2021,
+    "département": "Gers",
+    "grippe_65_ans_et_plus": 55.7,
+    "grippe_moins_de_65_ans_à_risque": 35.5,
+    "taux hospitalisation": 118
+  },
+  {
+    "année": 2021,
+    "département": "Gironde",
+    "grippe_65_ans_et_plus": 60.7,
+    "grippe_moins_de_65_ans_à_risque": 35.8,
+    "taux hospitalisation": 62
+  },
+  {
+    "année": 2021,
+    "département": "Haute-Corse",
+    "grippe_65_ans_et_plus": 50.7,
+    "grippe_moins_de_65_ans_à_risque": 30,
+    "taux hospitalisation": 57
+  },
+  {
+    "année": 2021,
+    "département": "Haute-Garonne",
+    "grippe_65_ans_et_plus": 58.9,
+    "grippe_moins_de_65_ans_à_risque": 32.9,
+    "taux hospitalisation": 57
+  },
+  {
+    "année": 2021,
+    "département": "Haute-Loire",
+    "grippe_65_ans_et_plus": 50.4,
+    "grippe_moins_de_65_ans_à_risque": 35.9,
+    "taux hospitalisation": 48
+  },
+  {
+    "année": 2021,
+    "département": "Haute-Marne",
+    "grippe_65_ans_et_plus": 55.9,
+    "grippe_moins_de_65_ans_à_risque": 38.2,
+    "taux hospitalisation": 35
+  },
+  {
+    "année": 2021,
+    "département": "Hautes-Alpes",
+    "grippe_65_ans_et_plus": 52.6,
+    "grippe_moins_de_65_ans_à_risque": 32.7,
+    "taux hospitalisation": 38
+  },
+  {
+    "année": 2021,
+    "département": "Haute-Saône",
+    "grippe_65_ans_et_plus": 54.8,
+    "grippe_moins_de_65_ans_à_risque": 36.3,
+    "taux hospitalisation": 0
+  },
+  {
+    "année": 2021,
+    "département": "Haute-Savoie",
+    "grippe_65_ans_et_plus": 51.3,
+    "grippe_moins_de_65_ans_à_risque": 30.9,
+    "taux hospitalisation": 42
+  },
+  {
+    "année": 2021,
+    "département": "Hautes-Pyrénées",
+    "grippe_65_ans_et_plus": 55.3,
+    "grippe_moins_de_65_ans_à_risque": 34.4,
+    "taux hospitalisation": 30
+  },
+  {
+    "année": 2021,
+    "département": "Haute-Vienne",
+    "grippe_65_ans_et_plus": 60.6,
+    "grippe_moins_de_65_ans_à_risque": 40.2,
+    "taux hospitalisation": 650
+  },
+  {
+    "année": 2021,
+    "département": "Haut-Rhin",
+    "grippe_65_ans_et_plus": 48.8,
+    "grippe_moins_de_65_ans_à_risque": 30.6,
+    "taux hospitalisation": 13
+  },
+  {
+    "année": 2021,
+    "département": "Hauts-de-Seine",
+    "grippe_65_ans_et_plus": 55.6,
+    "grippe_moins_de_65_ans_à_risque": 30.5,
+    "taux hospitalisation": 124
+  },
+  {
+    "année": 2021,
+    "département": "Hérault",
+    "grippe_65_ans_et_plus": 57.4,
+    "grippe_moins_de_65_ans_à_risque": 32.6,
+    "taux hospitalisation": 193
+  },
+  {
+    "année": 2021,
+    "département": "Ille-et-Vilaine",
+    "grippe_65_ans_et_plus": 61.1,
+    "grippe_moins_de_65_ans_à_risque": 34.9,
+    "taux hospitalisation": 38
+  },
+  {
+    "année": 2021,
+    "département": "Indre",
+    "grippe_65_ans_et_plus": 55.3,
+    "grippe_moins_de_65_ans_à_risque": 37.2,
+    "taux hospitalisation": 17
+  },
+  {
+    "année": 2021,
+    "département": "Indre-et-Loire",
+    "grippe_65_ans_et_plus": 62.7,
+    "grippe_moins_de_65_ans_à_risque": 40.9,
+    "taux hospitalisation": 98
+  },
+  {
+    "année": 2021,
+    "département": "Isère",
+    "grippe_65_ans_et_plus": 57.2,
+    "grippe_moins_de_65_ans_à_risque": 36.7,
+    "taux hospitalisation": 37
+  },
+  {
+    "année": 2021,
+    "département": "Jura",
+    "grippe_65_ans_et_plus": 53.4,
+    "grippe_moins_de_65_ans_à_risque": 35.9,
+    "taux hospitalisation": 21
+  },
+  {
+    "année": 2021,
+    "département": "Landes",
+    "grippe_65_ans_et_plus": 59.3,
+    "grippe_moins_de_65_ans_à_risque": 34.6,
+    "taux hospitalisation": 27
+  },
+  {
+    "année": 2021,
+    "département": "Loire",
+    "grippe_65_ans_et_plus": 55.3,
+    "grippe_moins_de_65_ans_à_risque": 34.5,
+    "taux hospitalisation": 26
+  },
+  {
+    "année": 2021,
+    "département": "Loire-Atlantique",
+    "grippe_65_ans_et_plus": 61.6,
+    "grippe_moins_de_65_ans_à_risque": 34.7,
+    "taux hospitalisation": 24
+  },
+  {
+    "année": 2021,
+    "département": "Loiret",
+    "grippe_65_ans_et_plus": 61.9,
+    "grippe_moins_de_65_ans_à_risque": 37,
+    "taux hospitalisation": 26
+  },
+  {
+    "année": 2021,
+    "département": "Loir-et-Cher",
+    "grippe_65_ans_et_plus": 59.7,
+    "grippe_moins_de_65_ans_à_risque": 38.7,
+    "taux hospitalisation": 4
+  },
+  {
+    "année": 2021,
+    "département": "Lot",
+    "grippe_65_ans_et_plus": 53.4,
+    "grippe_moins_de_65_ans_à_risque": 33.6,
+    "taux hospitalisation": 48
+  },
+  {
+    "année": 2021,
+    "département": "Lot-et-Garonne",
+    "grippe_65_ans_et_plus": 54.1,
+    "grippe_moins_de_65_ans_à_risque": 31,
+    "taux hospitalisation": 58
+  },
+  {
+    "année": 2021,
+    "département": "Lozère",
+    "grippe_65_ans_et_plus": 53.4,
+    "grippe_moins_de_65_ans_à_risque": 38.2,
+    "taux hospitalisation": 0
+  },
+  {
+    "année": 2021,
+    "département": "Maine-et-Loire",
+    "grippe_65_ans_et_plus": 60.6,
+    "grippe_moins_de_65_ans_à_risque": 35.6,
+    "taux hospitalisation": 25
+  },
+  {
+    "année": 2021,
+    "département": "Manche",
+    "grippe_65_ans_et_plus": 60.6,
+    "grippe_moins_de_65_ans_à_risque": 40.5,
+    "taux hospitalisation": 119
+  },
+  {
+    "année": 2021,
+    "département": "Marne",
+    "grippe_65_ans_et_plus": 62.8,
+    "grippe_moins_de_65_ans_à_risque": 40.5,
+    "taux hospitalisation": 41
+  },
+  {
+    "année": 2021,
+    "département": "Mayenne",
+    "grippe_65_ans_et_plus": 57.6,
+    "grippe_moins_de_65_ans_à_risque": 35.2,
+    "taux hospitalisation": 130
+  },
+  {
+    "année": 2021,
+    "département": "Meurthe-et-Moselle",
+    "grippe_65_ans_et_plus": 60.5,
+    "grippe_moins_de_65_ans_à_risque": 40.9,
+    "taux hospitalisation": 15
+  },
+  {
+    "année": 2021,
+    "département": "Meuse",
+    "grippe_65_ans_et_plus": 59.1,
+    "grippe_moins_de_65_ans_à_risque": 38.7,
+    "taux hospitalisation": 0
+  },
+  {
+    "année": 2021,
+    "département": "Morbihan",
+    "grippe_65_ans_et_plus": 59.9,
+    "grippe_moins_de_65_ans_à_risque": 33.7,
+    "taux hospitalisation": 10
+  },
+  {
+    "année": 2021,
+    "département": "Moselle",
+    "grippe_65_ans_et_plus": 57.3,
+    "grippe_moins_de_65_ans_à_risque": 36.7,
+    "taux hospitalisation": 2
+  },
+  {
+    "année": 2021,
+    "département": "Nièvre",
+    "grippe_65_ans_et_plus": 58.8,
+    "grippe_moins_de_65_ans_à_risque": 38,
+    "taux hospitalisation": 14
+  },
+  {
+    "année": 2021,
+    "département": "Nord",
+    "grippe_65_ans_et_plus": 59.4,
+    "grippe_moins_de_65_ans_à_risque": 39,
+    "taux hospitalisation": 85
+  },
+  {
+    "année": 2021,
+    "département": "Oise",
+    "grippe_65_ans_et_plus": 57,
+    "grippe_moins_de_65_ans_à_risque": 35.1,
+    "taux hospitalisation": 193
+  },
+  {
+    "année": 2021,
+    "département": "Orne",
+    "grippe_65_ans_et_plus": 56.7,
+    "grippe_moins_de_65_ans_à_risque": 36.6,
+    "taux hospitalisation": 48
+  },
+  {
+    "année": 2021,
+    "département": "Paris",
+    "grippe_65_ans_et_plus": 52.8,
+    "grippe_moins_de_65_ans_à_risque": 30.9,
+    "taux hospitalisation": 81
+  },
+  {
+    "année": 2021,
+    "département": "Pas-de-Calais",
+    "grippe_65_ans_et_plus": 61,
+    "grippe_moins_de_65_ans_à_risque": 43.5,
+    "taux hospitalisation": 0
+  },
+  {
+    "année": 2021,
+    "département": "Puy-de-Dôme",
+    "grippe_65_ans_et_plus": 59.7,
+    "grippe_moins_de_65_ans_à_risque": 39.7,
+    "taux hospitalisation": 12
+  },
+  {
+    "année": 2021,
+    "département": "Pyrénées-Atlantiques",
+    "grippe_65_ans_et_plus": 59.3,
+    "grippe_moins_de_65_ans_à_risque": 33.9,
+    "taux hospitalisation": 16
+  },
+  {
+    "année": 2021,
+    "département": "Pyrénées-Orientales",
+    "grippe_65_ans_et_plus": 53.9,
+    "grippe_moins_de_65_ans_à_risque": 29.8,
+    "taux hospitalisation": 131
+  },
+  {
+    "année": 2021,
+    "département": "Rhône",
+    "grippe_65_ans_et_plus": 58.4,
+    "grippe_moins_de_65_ans_à_risque": 34.2,
+    "taux hospitalisation": 34
+  },
+  {
+    "année": 2021,
+    "département": "Saône-et-Loire",
+    "grippe_65_ans_et_plus": 57.5,
+    "grippe_moins_de_65_ans_à_risque": 38.1,
+    "taux hospitalisation": 28
+  },
+  {
+    "année": 2021,
+    "département": "Sarthe",
+    "grippe_65_ans_et_plus": 59.9,
+    "grippe_moins_de_65_ans_à_risque": 35.3,
+    "taux hospitalisation": 21
+  },
+  {
+    "année": 2021,
+    "département": "Savoie",
+    "grippe_65_ans_et_plus": 52.1,
+    "grippe_moins_de_65_ans_à_risque": 35.1,
+    "taux hospitalisation": 7
+  },
+  {
+    "année": 2021,
+    "département": "Seine-et-Marne",
+    "grippe_65_ans_et_plus": 58,
+    "grippe_moins_de_65_ans_à_risque": 31.6,
+    "taux hospitalisation": 53
+  },
+  {
+    "année": 2021,
+    "département": "Seine-Maritime",
+    "grippe_65_ans_et_plus": 64.2,
+    "grippe_moins_de_65_ans_à_risque": 41.1,
+    "taux hospitalisation": 29
+  },
+  {
+    "année": 2021,
+    "département": "Seine-Saint-Denis",
+    "grippe_65_ans_et_plus": 48,
+    "grippe_moins_de_65_ans_à_risque": 25.8,
+    "taux hospitalisation": 238
+  },
+  {
+    "année": 2021,
+    "département": "Somme",
+    "grippe_65_ans_et_plus": 62.6,
+    "grippe_moins_de_65_ans_à_risque": 41.8,
+    "taux hospitalisation": 20
+  },
+  {
+    "année": 2021,
+    "département": "Tarn",
+    "grippe_65_ans_et_plus": 56.2,
+    "grippe_moins_de_65_ans_à_risque": 34.3,
+    "taux hospitalisation": 194
+  },
+  {
+    "année": 2021,
+    "département": "Tarn-et-Garonne",
+    "grippe_65_ans_et_plus": 55.8,
+    "grippe_moins_de_65_ans_à_risque": 33.6,
+    "taux hospitalisation": 7
+  },
+  {
+    "année": 2021,
+    "département": "Territoire de Belfort",
+    "grippe_65_ans_et_plus": 52,
+    "grippe_moins_de_65_ans_à_risque": 33.8,
+    "taux hospitalisation": 3
+  },
+  {
+    "année": 2021,
+    "département": "Val-de-Marne",
+    "grippe_65_ans_et_plus": 56,
+    "grippe_moins_de_65_ans_à_risque": 30.8,
+    "taux hospitalisation": 171
+  },
+  {
+    "année": 2021,
+    "département": "Val-d'Oise",
+    "grippe_65_ans_et_plus": 54.1,
+    "grippe_moins_de_65_ans_à_risque": 27.8,
+    "taux hospitalisation": 186
+  },
+  {
+    "année": 2021,
+    "département": "Var",
+    "grippe_65_ans_et_plus": 53.3,
+    "grippe_moins_de_65_ans_à_risque": 29.8,
+    "taux hospitalisation": 150
+  },
+  {
+    "année": 2021,
+    "département": "Vaucluse",
+    "grippe_65_ans_et_plus": 51.3,
+    "grippe_moins_de_65_ans_à_risque": 29.1,
+    "taux hospitalisation": 94
+  },
+  {
+    "année": 2021,
+    "département": "Vendée",
+    "grippe_65_ans_et_plus": 60.1,
+    "grippe_moins_de_65_ans_à_risque": 35.6,
+    "taux hospitalisation": 51
+  },
+  {
+    "année": 2021,
+    "département": "Vienne",
+    "grippe_65_ans_et_plus": 60.8,
+    "grippe_moins_de_65_ans_à_risque": 38.9,
+    "taux hospitalisation": 8
+  },
+  {
+    "année": 2021,
+    "département": "Vosges",
+    "grippe_65_ans_et_plus": 57.3,
+    "grippe_moins_de_65_ans_à_risque": 39.3,
+    "taux hospitalisation": 10
+  },
+  {
+    "année": 2021,
+    "département": "Yonne",
+    "grippe_65_ans_et_plus": 58.1,
+    "grippe_moins_de_65_ans_à_risque": 36.2,
+    "taux hospitalisation": 65
+  },
+  {
+    "année": 2021,
+    "département": "Yvelines",
+    "grippe_65_ans_et_plus": 58,
+    "grippe_moins_de_65_ans_à_risque": 30.7,
+    "taux hospitalisation": 109
+  },
+  {
+    "année": 2022,
+    "département": "Ain",
+    "grippe_65_ans_et_plus": 54.5,
+    "grippe_moins_de_65_ans_à_risque": 31.2,
+    "taux hospitalisation": 467
+  },
+  {
+    "année": 2022,
+    "département": "Aisne",
+    "grippe_65_ans_et_plus": 57.3,
+    "grippe_moins_de_65_ans_à_risque": 36.5,
+    "taux hospitalisation": 358
+  },
+  {
+    "année": 2022,
+    "département": "Allier",
+    "grippe_65_ans_et_plus": 57.1,
+    "grippe_moins_de_65_ans_à_risque": 34.8,
+    "taux hospitalisation": 683
+  },
+  {
+    "année": 2022,
+    "département": "Alpes-de-Haute-Provence",
+    "grippe_65_ans_et_plus": 50,
+    "grippe_moins_de_65_ans_à_risque": 29.9,
+    "taux hospitalisation": 414
+  },
+  {
+    "année": 2022,
+    "département": "Alpes-Maritimes",
+    "grippe_65_ans_et_plus": 50.4,
+    "grippe_moins_de_65_ans_à_risque": 25.9,
+    "taux hospitalisation": 1047
+  },
+  {
+    "année": 2022,
+    "département": "Ardèche",
+    "grippe_65_ans_et_plus": 51.5,
+    "grippe_moins_de_65_ans_à_risque": 30.7,
+    "taux hospitalisation": 455
+  },
+  {
+    "année": 2022,
+    "département": "Ardennes",
+    "grippe_65_ans_et_plus": 61.1,
+    "grippe_moins_de_65_ans_à_risque": 37.4,
+    "taux hospitalisation": 304
+  },
+  {
+    "année": 2022,
+    "département": "Ariège",
+    "grippe_65_ans_et_plus": 50.6,
+    "grippe_moins_de_65_ans_à_risque": 28.6,
+    "taux hospitalisation": 294
+  },
+  {
+    "année": 2022,
+    "département": "Aube",
+    "grippe_65_ans_et_plus": 57.1,
+    "grippe_moins_de_65_ans_à_risque": 33.2,
+    "taux hospitalisation": 122
+  },
+  {
+    "année": 2022,
+    "département": "Aude",
+    "grippe_65_ans_et_plus": 53.8,
+    "grippe_moins_de_65_ans_à_risque": 29,
+    "taux hospitalisation": 317
+  },
+  {
+    "année": 2022,
+    "département": "Aveyron",
+    "grippe_65_ans_et_plus": 55.4,
+    "grippe_moins_de_65_ans_à_risque": 33.8,
+    "taux hospitalisation": 710
+  },
+  {
+    "année": 2022,
+    "département": "Bas-Rhin",
+    "grippe_65_ans_et_plus": 53.3,
+    "grippe_moins_de_65_ans_à_risque": 31.5,
+    "taux hospitalisation": 645
+  },
+  {
+    "année": 2022,
+    "département": "Bouches-du-Rhône",
+    "grippe_65_ans_et_plus": 52.8,
+    "grippe_moins_de_65_ans_à_risque": 27,
+    "taux hospitalisation": 1321
+  },
+  {
+    "année": 2022,
+    "département": "Calvados",
+    "grippe_65_ans_et_plus": 61.5,
+    "grippe_moins_de_65_ans_à_risque": 36.5,
+    "taux hospitalisation": 1049
+  },
+  {
+    "année": 2022,
+    "département": "Cantal",
+    "grippe_65_ans_et_plus": 59.7,
+    "grippe_moins_de_65_ans_à_risque": 39.5,
+    "taux hospitalisation": 955
+  },
+  {
+    "année": 2022,
+    "département": "Charente",
+    "grippe_65_ans_et_plus": 57.5,
+    "grippe_moins_de_65_ans_à_risque": 33.9,
+    "taux hospitalisation": 513
+  },
+  {
+    "année": 2022,
+    "département": "Charente-Maritime",
+    "grippe_65_ans_et_plus": 58.1,
+    "grippe_moins_de_65_ans_à_risque": 32.6,
+    "taux hospitalisation": 1089
+  },
+  {
+    "année": 2022,
+    "département": "Cher",
+    "grippe_65_ans_et_plus": 57.8,
+    "grippe_moins_de_65_ans_à_risque": 34.3,
+    "taux hospitalisation": 279
+  },
+  {
+    "année": 2022,
+    "département": "Corrèze",
+    "grippe_65_ans_et_plus": 56.9,
+    "grippe_moins_de_65_ans_à_risque": 34,
+    "taux hospitalisation": 238
+  },
+  {
+    "année": 2022,
+    "département": "Corse-du-Sud",
+    "grippe_65_ans_et_plus": 47,
+    "grippe_moins_de_65_ans_à_risque": 25.7,
+    "taux hospitalisation": 696
+  },
+  {
+    "année": 2022,
+    "département": "Côte-d'Or",
+    "grippe_65_ans_et_plus": 60,
+    "grippe_moins_de_65_ans_à_risque": 36.2,
+    "taux hospitalisation": 571
+  },
+  {
+    "année": 2022,
+    "département": "Côtes-d'Armor",
+    "grippe_65_ans_et_plus": 60.4,
+    "grippe_moins_de_65_ans_à_risque": 31.3,
+    "taux hospitalisation": 453
+  },
+  {
+    "année": 2022,
+    "département": "Creuse",
+    "grippe_65_ans_et_plus": 54.9,
+    "grippe_moins_de_65_ans_à_risque": 36.6,
+    "taux hospitalisation": 204
+  },
+  {
+    "année": 2022,
+    "département": "Deux-Sèvres",
+    "grippe_65_ans_et_plus": 57.3,
+    "grippe_moins_de_65_ans_à_risque": 35.1,
+    "taux hospitalisation": 461
+  },
+  {
+    "année": 2022,
+    "département": "Dordogne",
+    "grippe_65_ans_et_plus": 53.9,
+    "grippe_moins_de_65_ans_à_risque": 31.7,
+    "taux hospitalisation": 672
+  },
+  {
+    "année": 2022,
+    "département": "Doubs",
+    "grippe_65_ans_et_plus": 54.9,
+    "grippe_moins_de_65_ans_à_risque": 31,
+    "taux hospitalisation": 642
+  },
+  {
+    "année": 2022,
+    "département": "Drôme",
+    "grippe_65_ans_et_plus": 51.7,
+    "grippe_moins_de_65_ans_à_risque": 30.8,
+    "taux hospitalisation": 592
+  },
+  {
+    "année": 2022,
+    "département": "Essonne",
+    "grippe_65_ans_et_plus": 58.4,
+    "grippe_moins_de_65_ans_à_risque": 27.8,
+    "taux hospitalisation": 666
+  },
+  {
+    "année": 2022,
+    "département": "Eure",
+    "grippe_65_ans_et_plus": 57.1,
+    "grippe_moins_de_65_ans_à_risque": 34.4,
+    "taux hospitalisation": 760
+  },
+  {
+    "année": 2022,
+    "département": "Eure-et-Loir",
+    "grippe_65_ans_et_plus": 59,
+    "grippe_moins_de_65_ans_à_risque": 32.5,
+    "taux hospitalisation": 347
+  },
+  {
+    "année": 2022,
+    "département": "Finistère",
+    "grippe_65_ans_et_plus": 65,
+    "grippe_moins_de_65_ans_à_risque": 35.6,
+    "taux hospitalisation": 422
+  },
+  {
+    "année": 2022,
+    "département": "Gard",
+    "grippe_65_ans_et_plus": 55.6,
+    "grippe_moins_de_65_ans_à_risque": 30.2,
+    "taux hospitalisation": 460
+  },
+  {
+    "année": 2022,
+    "département": "Gers",
+    "grippe_65_ans_et_plus": 55.6,
+    "grippe_moins_de_65_ans_à_risque": 32.3,
+    "taux hospitalisation": 767
+  },
+  {
+    "année": 2022,
+    "département": "Gironde",
+    "grippe_65_ans_et_plus": 59.8,
+    "grippe_moins_de_65_ans_à_risque": 33,
+    "taux hospitalisation": 454
+  },
+  {
+    "année": 2022,
+    "département": "Haute-Corse",
+    "grippe_65_ans_et_plus": 50.2,
+    "grippe_moins_de_65_ans_à_risque": 27.8,
+    "taux hospitalisation": 660
+  },
+  {
+    "année": 2022,
+    "département": "Haute-Garonne",
+    "grippe_65_ans_et_plus": 58.7,
+    "grippe_moins_de_65_ans_à_risque": 29.9,
+    "taux hospitalisation": 293
+  },
+  {
+    "année": 2022,
+    "département": "Haute-Loire",
+    "grippe_65_ans_et_plus": 50.1,
+    "grippe_moins_de_65_ans_à_risque": 32.4,
+    "taux hospitalisation": 630
+  },
+  {
+    "année": 2022,
+    "département": "Haute-Marne",
+    "grippe_65_ans_et_plus": 55.4,
+    "grippe_moins_de_65_ans_à_risque": 35.3,
+    "taux hospitalisation": 337
+  },
+  {
+    "année": 2022,
+    "département": "Hautes-Alpes",
+    "grippe_65_ans_et_plus": 52.3,
+    "grippe_moins_de_65_ans_à_risque": 30.8,
+    "taux hospitalisation": 1384
+  },
+  {
+    "année": 2022,
+    "département": "Haute-Saône",
+    "grippe_65_ans_et_plus": 53.2,
+    "grippe_moins_de_65_ans_à_risque": 32.6,
+    "taux hospitalisation": 212
+  },
+  {
+    "année": 2022,
+    "département": "Haute-Savoie",
+    "grippe_65_ans_et_plus": 50.8,
+    "grippe_moins_de_65_ans_à_risque": 28.4,
+    "taux hospitalisation": 1169
+  },
+  {
+    "année": 2022,
+    "département": "Hautes-Pyrénées",
+    "grippe_65_ans_et_plus": 55.3,
+    "grippe_moins_de_65_ans_à_risque": 31.3,
+    "taux hospitalisation": 758
+  },
+  {
+    "année": 2022,
+    "département": "Haute-Vienne",
+    "grippe_65_ans_et_plus": 60.5,
+    "grippe_moins_de_65_ans_à_risque": 37.2,
+    "taux hospitalisation": 1122
+  },
+  {
+    "année": 2022,
+    "département": "Haut-Rhin",
+    "grippe_65_ans_et_plus": 47.9,
+    "grippe_moins_de_65_ans_à_risque": 28.1,
+    "taux hospitalisation": 688
+  },
+  {
+    "année": 2022,
+    "département": "Hauts-de-Seine",
+    "grippe_65_ans_et_plus": 55.7,
+    "grippe_moins_de_65_ans_à_risque": 28.3,
+    "taux hospitalisation": 680
+  },
+  {
+    "année": 2022,
+    "département": "Hérault",
+    "grippe_65_ans_et_plus": 56.9,
+    "grippe_moins_de_65_ans_à_risque": 29.6,
+    "taux hospitalisation": 396
+  },
+  {
+    "année": 2022,
+    "département": "Ille-et-Vilaine",
+    "grippe_65_ans_et_plus": 60.8,
+    "grippe_moins_de_65_ans_à_risque": 32.4,
+    "taux hospitalisation": 809
+  },
+  {
+    "année": 2022,
+    "département": "Indre",
+    "grippe_65_ans_et_plus": 53.8,
+    "grippe_moins_de_65_ans_à_risque": 34.4,
+    "taux hospitalisation": 310
+  },
+  {
+    "année": 2022,
+    "département": "Indre-et-Loire",
+    "grippe_65_ans_et_plus": 62.4,
+    "grippe_moins_de_65_ans_à_risque": 38.3,
+    "taux hospitalisation": 556
+  },
+  {
+    "année": 2022,
+    "département": "Isère",
+    "grippe_65_ans_et_plus": 57.4,
+    "grippe_moins_de_65_ans_à_risque": 33.8,
+    "taux hospitalisation": 777
+  },
+  {
+    "année": 2022,
+    "département": "Jura",
+    "grippe_65_ans_et_plus": 52.4,
+    "grippe_moins_de_65_ans_à_risque": 31.5,
+    "taux hospitalisation": 808
+  },
+  {
+    "année": 2022,
+    "département": "Landes",
+    "grippe_65_ans_et_plus": 58.5,
+    "grippe_moins_de_65_ans_à_risque": 31.7,
+    "taux hospitalisation": 577
+  },
+  {
+    "année": 2022,
+    "département": "Loire",
+    "grippe_65_ans_et_plus": 54.7,
+    "grippe_moins_de_65_ans_à_risque": 31.1,
+    "taux hospitalisation": 889
+  },
+  {
+    "année": 2022,
+    "département": "Loire-Atlantique",
+    "grippe_65_ans_et_plus": 60.9,
+    "grippe_moins_de_65_ans_à_risque": 32.4,
+    "taux hospitalisation": 1028
+  },
+  {
+    "année": 2022,
+    "département": "Loiret",
+    "grippe_65_ans_et_plus": 60.9,
+    "grippe_moins_de_65_ans_à_risque": 33.7,
+    "taux hospitalisation": 367
+  },
+  {
+    "année": 2022,
+    "département": "Loir-et-Cher",
+    "grippe_65_ans_et_plus": 58.5,
+    "grippe_moins_de_65_ans_à_risque": 35.6,
+    "taux hospitalisation": 176
+  },
+  {
+    "année": 2022,
+    "département": "Lot",
+    "grippe_65_ans_et_plus": 52.7,
+    "grippe_moins_de_65_ans_à_risque": 31.2,
+    "taux hospitalisation": 68
+  },
+  {
+    "année": 2022,
+    "département": "Lot-et-Garonne",
+    "grippe_65_ans_et_plus": 53.5,
+    "grippe_moins_de_65_ans_à_risque": 27.6,
+    "taux hospitalisation": 890
+  },
+  {
+    "année": 2022,
+    "département": "Lozère",
+    "grippe_65_ans_et_plus": 53.3,
+    "grippe_moins_de_65_ans_à_risque": 35.8,
+    "taux hospitalisation": 319
+  },
+  {
+    "année": 2022,
+    "département": "Maine-et-Loire",
+    "grippe_65_ans_et_plus": 60,
+    "grippe_moins_de_65_ans_à_risque": 33,
+    "taux hospitalisation": 237
+  },
+  {
+    "année": 2022,
+    "département": "Manche",
+    "grippe_65_ans_et_plus": 59,
+    "grippe_moins_de_65_ans_à_risque": 37.8,
+    "taux hospitalisation": 813
+  },
+  {
+    "année": 2022,
+    "département": "Marne",
+    "grippe_65_ans_et_plus": 61.6,
+    "grippe_moins_de_65_ans_à_risque": 37.2,
+    "taux hospitalisation": 383
+  },
+  {
+    "année": 2022,
+    "département": "Mayenne",
+    "grippe_65_ans_et_plus": 56.6,
+    "grippe_moins_de_65_ans_à_risque": 31.9,
+    "taux hospitalisation": 660
+  },
+  {
+    "année": 2022,
+    "département": "Meurthe-et-Moselle",
+    "grippe_65_ans_et_plus": 59.3,
+    "grippe_moins_de_65_ans_à_risque": 37.5,
+    "taux hospitalisation": 756
+  },
+  {
+    "année": 2022,
+    "département": "Meuse",
+    "grippe_65_ans_et_plus": 57.7,
+    "grippe_moins_de_65_ans_à_risque": 35.7,
+    "taux hospitalisation": 0
+  },
+  {
+    "année": 2022,
+    "département": "Morbihan",
+    "grippe_65_ans_et_plus": 59.7,
+    "grippe_moins_de_65_ans_à_risque": 31.1,
+    "taux hospitalisation": 715
+  },
+  {
+    "année": 2022,
+    "département": "Moselle",
+    "grippe_65_ans_et_plus": 56.4,
+    "grippe_moins_de_65_ans_à_risque": 33.1,
+    "taux hospitalisation": 622
+  },
+  {
+    "année": 2022,
+    "département": "Nièvre",
+    "grippe_65_ans_et_plus": 57.6,
+    "grippe_moins_de_65_ans_à_risque": 34.5,
+    "taux hospitalisation": 353
+  },
+  {
+    "année": 2022,
+    "département": "Nord",
+    "grippe_65_ans_et_plus": 58.8,
+    "grippe_moins_de_65_ans_à_risque": 36,
+    "taux hospitalisation": 868
+  },
+  {
+    "année": 2022,
+    "département": "Oise",
+    "grippe_65_ans_et_plus": 56.1,
+    "grippe_moins_de_65_ans_à_risque": 31.6,
+    "taux hospitalisation": 536
+  },
+  {
+    "année": 2022,
+    "département": "Orne",
+    "grippe_65_ans_et_plus": 56,
+    "grippe_moins_de_65_ans_à_risque": 34.2,
+    "taux hospitalisation": 497
+  },
+  {
+    "année": 2022,
+    "département": "Paris",
+    "grippe_65_ans_et_plus": 53.8,
+    "grippe_moins_de_65_ans_à_risque": 29.9,
+    "taux hospitalisation": 473
+  },
+  {
+    "année": 2022,
+    "département": "Pas-de-Calais",
+    "grippe_65_ans_et_plus": 60.5,
+    "grippe_moins_de_65_ans_à_risque": 39.8,
+    "taux hospitalisation": 458
+  },
+  {
+    "année": 2022,
+    "département": "Puy-de-Dôme",
+    "grippe_65_ans_et_plus": 59.6,
+    "grippe_moins_de_65_ans_à_risque": 35.9,
+    "taux hospitalisation": 605
+  },
+  {
+    "année": 2022,
+    "département": "Pyrénées-Atlantiques",
+    "grippe_65_ans_et_plus": 59.4,
+    "grippe_moins_de_65_ans_à_risque": 31.3,
+    "taux hospitalisation": 529
+  },
+  {
+    "année": 2022,
+    "département": "Pyrénées-Orientales",
+    "grippe_65_ans_et_plus": 52.9,
+    "grippe_moins_de_65_ans_à_risque": 27.2,
+    "taux hospitalisation": 1015
+  },
+  {
+    "année": 2022,
+    "département": "Rhône",
+    "grippe_65_ans_et_plus": 58.5,
+    "grippe_moins_de_65_ans_à_risque": 31.9,
+    "taux hospitalisation": 478
+  },
+  {
+    "année": 2022,
+    "département": "Saône-et-Loire",
+    "grippe_65_ans_et_plus": 56.7,
+    "grippe_moins_de_65_ans_à_risque": 34.7,
+    "taux hospitalisation": 995
+  },
+  {
+    "année": 2022,
+    "département": "Sarthe",
+    "grippe_65_ans_et_plus": 58.1,
+    "grippe_moins_de_65_ans_à_risque": 32.5,
+    "taux hospitalisation": 594
+  },
+  {
+    "année": 2022,
+    "département": "Savoie",
+    "grippe_65_ans_et_plus": 52.1,
+    "grippe_moins_de_65_ans_à_risque": 32.1,
+    "taux hospitalisation": 554
+  },
+  {
+    "année": 2022,
+    "département": "Seine-et-Marne",
+    "grippe_65_ans_et_plus": 57.2,
+    "grippe_moins_de_65_ans_à_risque": 29,
+    "taux hospitalisation": 288
+  },
+  {
+    "année": 2022,
+    "département": "Seine-Maritime",
+    "grippe_65_ans_et_plus": 63.5,
+    "grippe_moins_de_65_ans_à_risque": 38.2,
+    "taux hospitalisation": 614
+  },
+  {
+    "année": 2022,
+    "département": "Seine-Saint-Denis",
+    "grippe_65_ans_et_plus": 47,
+    "grippe_moins_de_65_ans_à_risque": 23.9,
+    "taux hospitalisation": 741
+  },
+  {
+    "année": 2022,
+    "département": "Somme",
+    "grippe_65_ans_et_plus": 61.6,
+    "grippe_moins_de_65_ans_à_risque": 38.1,
+    "taux hospitalisation": 1050
+  },
+  {
+    "année": 2022,
+    "département": "Tarn",
+    "grippe_65_ans_et_plus": 56,
+    "grippe_moins_de_65_ans_à_risque": 30.3,
+    "taux hospitalisation": 971
+  },
+  {
+    "année": 2022,
+    "département": "Tarn-et-Garonne",
+    "grippe_65_ans_et_plus": 54.6,
+    "grippe_moins_de_65_ans_à_risque": 30.3,
+    "taux hospitalisation": 182
+  },
+  {
+    "année": 2022,
+    "département": "Territoire de Belfort",
+    "grippe_65_ans_et_plus": 50.7,
+    "grippe_moins_de_65_ans_à_risque": 29.9,
+    "taux hospitalisation": 242
+  },
+  {
+    "année": 2022,
+    "département": "Val-de-Marne",
+    "grippe_65_ans_et_plus": 55.8,
+    "grippe_moins_de_65_ans_à_risque": 28.6,
+    "taux hospitalisation": 1011
+  },
+  {
+    "année": 2022,
+    "département": "Val-d'Oise",
+    "grippe_65_ans_et_plus": 53.4,
+    "grippe_moins_de_65_ans_à_risque": 25.6,
+    "taux hospitalisation": 673
+  },
+  {
+    "année": 2022,
+    "département": "Var",
+    "grippe_65_ans_et_plus": 52.8,
+    "grippe_moins_de_65_ans_à_risque": 27.6,
+    "taux hospitalisation": 1176
+  },
+  {
+    "année": 2022,
+    "département": "Vaucluse",
+    "grippe_65_ans_et_plus": 51.1,
+    "grippe_moins_de_65_ans_à_risque": 27,
+    "taux hospitalisation": 1299
+  },
+  {
+    "année": 2022,
+    "département": "Vendée",
+    "grippe_65_ans_et_plus": 59.1,
+    "grippe_moins_de_65_ans_à_risque": 33.5,
+    "taux hospitalisation": 776
+  },
+  {
+    "année": 2022,
+    "département": "Vienne",
+    "grippe_65_ans_et_plus": 60.2,
+    "grippe_moins_de_65_ans_à_risque": 36.2,
+    "taux hospitalisation": 642
+  },
+  {
+    "année": 2022,
+    "département": "Vosges",
+    "grippe_65_ans_et_plus": 56.2,
+    "grippe_moins_de_65_ans_à_risque": 35.7,
+    "taux hospitalisation": 670
+  },
+  {
+    "année": 2022,
+    "département": "Yonne",
+    "grippe_65_ans_et_plus": 57.1,
+    "grippe_moins_de_65_ans_à_risque": 32.9,
+    "taux hospitalisation": 253
+  },
+  {
+    "année": 2022,
+    "département": "Yvelines",
+    "grippe_65_ans_et_plus": 58.3,
+    "grippe_moins_de_65_ans_à_risque": 28.5,
+    "taux hospitalisation": 415
+  },
+  {
+    "année": 2023,
+    "département": "Ain",
+    "grippe_65_ans_et_plus": 51.8,
+    "grippe_moins_de_65_ans_à_risque": 24.8,
+    "taux hospitalisation": 594
+  },
+  {
+    "année": 2023,
+    "département": "Aisne",
+    "grippe_65_ans_et_plus": 56.2,
+    "grippe_moins_de_65_ans_à_risque": 29.6,
+    "taux hospitalisation": 320
+  },
+  {
+    "année": 2023,
+    "département": "Allier",
+    "grippe_65_ans_et_plus": 54,
+    "grippe_moins_de_65_ans_à_risque": 27.2,
+    "taux hospitalisation": 532
+  },
+  {
+    "année": 2023,
+    "département": "Alpes-de-Haute-Provence",
+    "grippe_65_ans_et_plus": 47.7,
+    "grippe_moins_de_65_ans_à_risque": 21.9,
+    "taux hospitalisation": 1115
+  },
+  {
+    "année": 2023,
+    "département": "Alpes-Maritimes",
+    "grippe_65_ans_et_plus": 48.5,
+    "grippe_moins_de_65_ans_à_risque": 20.4,
+    "taux hospitalisation": 631
+  },
+  {
+    "année": 2023,
+    "département": "Ardèche",
+    "grippe_65_ans_et_plus": 49.3,
+    "grippe_moins_de_65_ans_à_risque": 23.6,
+    "taux hospitalisation": 567
+  },
+  {
+    "année": 2023,
+    "département": "Ardennes",
+    "grippe_65_ans_et_plus": 58.1,
+    "grippe_moins_de_65_ans_à_risque": 29.2,
+    "taux hospitalisation": 228
+  },
+  {
+    "année": 2023,
+    "département": "Ariège",
+    "grippe_65_ans_et_plus": 48.1,
+    "grippe_moins_de_65_ans_à_risque": 23.4,
+    "taux hospitalisation": 488
+  },
+  {
+    "année": 2023,
+    "département": "Aube",
+    "grippe_65_ans_et_plus": 54.5,
+    "grippe_moins_de_65_ans_à_risque": 26.1,
+    "taux hospitalisation": 116
+  },
+  {
+    "année": 2023,
+    "département": "Aude",
+    "grippe_65_ans_et_plus": 51.4,
+    "grippe_moins_de_65_ans_à_risque": 22.9,
+    "taux hospitalisation": 414
+  },
+  {
+    "année": 2023,
+    "département": "Aveyron",
+    "grippe_65_ans_et_plus": 52.9,
+    "grippe_moins_de_65_ans_à_risque": 26,
+    "taux hospitalisation": 452
+  },
+  {
+    "année": 2023,
+    "département": "Bas-Rhin",
+    "grippe_65_ans_et_plus": 51.1,
+    "grippe_moins_de_65_ans_à_risque": 25,
+    "taux hospitalisation": 428
+  },
+  {
+    "année": 2023,
+    "département": "Bouches-du-Rhône",
+    "grippe_65_ans_et_plus": 50.4,
+    "grippe_moins_de_65_ans_à_risque": 21.5,
+    "taux hospitalisation": 966
+  },
+  {
+    "année": 2023,
+    "département": "Calvados",
+    "grippe_65_ans_et_plus": 59.6,
+    "grippe_moins_de_65_ans_à_risque": 30.1,
+    "taux hospitalisation": 256
+  },
+  {
+    "année": 2023,
+    "département": "Cantal",
+    "grippe_65_ans_et_plus": 57.5,
+    "grippe_moins_de_65_ans_à_risque": 31.1,
+    "taux hospitalisation": 581
+  },
+  {
+    "année": 2023,
+    "département": "Charente",
+    "grippe_65_ans_et_plus": 55.2,
+    "grippe_moins_de_65_ans_à_risque": 27,
+    "taux hospitalisation": 470
+  },
+  {
+    "année": 2023,
+    "département": "Charente-Maritime",
+    "grippe_65_ans_et_plus": 55.7,
+    "grippe_moins_de_65_ans_à_risque": 26.1,
+    "taux hospitalisation": 369
+  },
+  {
+    "année": 2023,
+    "département": "Cher",
+    "grippe_65_ans_et_plus": 55,
+    "grippe_moins_de_65_ans_à_risque": 27.2,
+    "taux hospitalisation": 130
+  },
+  {
+    "année": 2023,
+    "département": "Corrèze",
+    "grippe_65_ans_et_plus": 54.1,
+    "grippe_moins_de_65_ans_à_risque": 26,
+    "taux hospitalisation": 148
+  },
+  {
+    "année": 2023,
+    "département": "Corse-du-Sud",
+    "grippe_65_ans_et_plus": 45.1,
+    "grippe_moins_de_65_ans_à_risque": 17.4,
+    "taux hospitalisation": 448
+  },
+  {
+    "année": 2023,
+    "département": "Côte-d'Or",
+    "grippe_65_ans_et_plus": 57.3,
+    "grippe_moins_de_65_ans_à_risque": 29.5,
+    "taux hospitalisation": 409
+  },
+  {
+    "année": 2023,
+    "département": "Côtes-d'Armor",
+    "grippe_65_ans_et_plus": 57.6,
+    "grippe_moins_de_65_ans_à_risque": 25.7,
+    "taux hospitalisation": 279
+  },
+  {
+    "année": 2023,
+    "département": "Creuse",
+    "grippe_65_ans_et_plus": 52.1,
+    "grippe_moins_de_65_ans_à_risque": 28.2,
+    "taux hospitalisation": 128
+  },
+  {
+    "année": 2023,
+    "département": "Deux-Sèvres",
+    "grippe_65_ans_et_plus": 54.9,
+    "grippe_moins_de_65_ans_à_risque": 27.8,
+    "taux hospitalisation": 135
+  },
+  {
+    "année": 2023,
+    "département": "Dordogne",
+    "grippe_65_ans_et_plus": 51.2,
+    "grippe_moins_de_65_ans_à_risque": 25.2,
+    "taux hospitalisation": 361
+  },
+  {
+    "année": 2023,
+    "département": "Doubs",
+    "grippe_65_ans_et_plus": 52,
+    "grippe_moins_de_65_ans_à_risque": 24.3,
+    "taux hospitalisation": 462
+  },
+  {
+    "année": 2023,
+    "département": "Drôme",
+    "grippe_65_ans_et_plus": 51.2,
+    "grippe_moins_de_65_ans_à_risque": 24.1,
+    "taux hospitalisation": 443
+  },
+  {
+    "année": 2023,
+    "département": "Essonne",
+    "grippe_65_ans_et_plus": 55.9,
+    "grippe_moins_de_65_ans_à_risque": 22.7,
+    "taux hospitalisation": 303
+  },
+  {
+    "année": 2023,
+    "département": "Eure",
+    "grippe_65_ans_et_plus": 54.6,
+    "grippe_moins_de_65_ans_à_risque": 27.6,
+    "taux hospitalisation": 252
+  },
+  {
+    "année": 2023,
+    "département": "Eure-et-Loir",
+    "grippe_65_ans_et_plus": 56.3,
+    "grippe_moins_de_65_ans_à_risque": 25.9,
+    "taux hospitalisation": 150
+  },
+  {
+    "année": 2023,
+    "département": "Finistère",
+    "grippe_65_ans_et_plus": 62.9,
+    "grippe_moins_de_65_ans_à_risque": 30.6,
+    "taux hospitalisation": 142
+  },
+  {
+    "année": 2023,
+    "département": "Gard",
+    "grippe_65_ans_et_plus": 52.9,
+    "grippe_moins_de_65_ans_à_risque": 24,
+    "taux hospitalisation": 277
+  },
+  {
+    "année": 2023,
+    "département": "Gers",
+    "grippe_65_ans_et_plus": 52.5,
+    "grippe_moins_de_65_ans_à_risque": 26.3,
+    "taux hospitalisation": 326
+  },
+  {
+    "année": 2023,
+    "département": "Gironde",
+    "grippe_65_ans_et_plus": 59,
+    "grippe_moins_de_65_ans_à_risque": 26.7,
+    "taux hospitalisation": 222
+  },
+  {
+    "année": 2023,
+    "département": "Haute-Corse",
+    "grippe_65_ans_et_plus": 46.8,
+    "grippe_moins_de_65_ans_à_risque": 18.5,
+    "taux hospitalisation": 410
+  },
+  {
+    "année": 2023,
+    "département": "Haute-Garonne",
+    "grippe_65_ans_et_plus": 56.1,
+    "grippe_moins_de_65_ans_à_risque": 24.3,
+    "taux hospitalisation": 206
+  },
+  {
+    "année": 2023,
+    "département": "Haute-Loire",
+    "grippe_65_ans_et_plus": 47.8,
+    "grippe_moins_de_65_ans_à_risque": 24.7,
+    "taux hospitalisation": 1084
+  },
+  {
+    "année": 2023,
+    "département": "Haute-Marne",
+    "grippe_65_ans_et_plus": 52.6,
+    "grippe_moins_de_65_ans_à_risque": 26.7,
+    "taux hospitalisation": 684
+  },
+  {
+    "année": 2023,
+    "département": "Hautes-Alpes",
+    "grippe_65_ans_et_plus": 50.6,
+    "grippe_moins_de_65_ans_à_risque": 23.4,
+    "taux hospitalisation": 343
+  },
+  {
+    "année": 2023,
+    "département": "Haute-Saône",
+    "grippe_65_ans_et_plus": 49.7,
+    "grippe_moins_de_65_ans_à_risque": 24.6,
+    "taux hospitalisation": 519
+  },
+  {
+    "année": 2023,
+    "département": "Haute-Savoie",
+    "grippe_65_ans_et_plus": 48.6,
+    "grippe_moins_de_65_ans_à_risque": 22.3,
+    "taux hospitalisation": 668
+  },
+  {
+    "année": 2023,
+    "département": "Hautes-Pyrénées",
+    "grippe_65_ans_et_plus": 52.6,
+    "grippe_moins_de_65_ans_à_risque": 25.1,
+    "taux hospitalisation": 277
+  },
+  {
+    "année": 2023,
+    "département": "Haute-Vienne",
+    "grippe_65_ans_et_plus": 57.9,
+    "grippe_moins_de_65_ans_à_risque": 29.7,
+    "taux hospitalisation": 739
+  },
+  {
+    "année": 2023,
+    "département": "Haut-Rhin",
+    "grippe_65_ans_et_plus": 45.5,
+    "grippe_moins_de_65_ans_à_risque": 21.9,
+    "taux hospitalisation": 468
+  },
+  {
+    "année": 2023,
+    "département": "Hauts-de-Seine",
+    "grippe_65_ans_et_plus": 54,
+    "grippe_moins_de_65_ans_à_risque": 23.7,
+    "taux hospitalisation": 296
+  },
+  {
+    "année": 2023,
+    "département": "Hérault",
+    "grippe_65_ans_et_plus": 54.3,
+    "grippe_moins_de_65_ans_à_risque": 23.8,
+    "taux hospitalisation": 342
+  },
+  {
+    "année": 2023,
+    "département": "Ille-et-Vilaine",
+    "grippe_65_ans_et_plus": 59.3,
+    "grippe_moins_de_65_ans_à_risque": 28.1,
+    "taux hospitalisation": 357
+  },
+  {
+    "année": 2023,
+    "département": "Indre",
+    "grippe_65_ans_et_plus": 50.9,
+    "grippe_moins_de_65_ans_à_risque": 27.4,
+    "taux hospitalisation": 12
+  },
+  {
+    "année": 2023,
+    "département": "Indre-et-Loire",
+    "grippe_65_ans_et_plus": 60.2,
+    "grippe_moins_de_65_ans_à_risque": 31.3,
+    "taux hospitalisation": 211
+  },
+  {
+    "année": 2023,
+    "département": "Isère",
+    "grippe_65_ans_et_plus": 55.2,
+    "grippe_moins_de_65_ans_à_risque": 27.6,
+    "taux hospitalisation": 490
+  },
+  {
+    "année": 2023,
+    "département": "Jura",
+    "grippe_65_ans_et_plus": 49.7,
+    "grippe_moins_de_65_ans_à_risque": 24.2,
+    "taux hospitalisation": 329
+  },
+  {
+    "année": 2023,
+    "département": "Landes",
+    "grippe_65_ans_et_plus": 57,
+    "grippe_moins_de_65_ans_à_risque": 25.3,
+    "taux hospitalisation": 523
+  },
+  {
+    "année": 2023,
+    "département": "Loire",
+    "grippe_65_ans_et_plus": 52.3,
+    "grippe_moins_de_65_ans_à_risque": 25.1,
+    "taux hospitalisation": 541
+  },
+  {
+    "année": 2023,
+    "département": "Loire-Atlantique",
+    "grippe_65_ans_et_plus": 59.8,
+    "grippe_moins_de_65_ans_à_risque": 28,
+    "taux hospitalisation": 363
+  },
+  {
+    "année": 2023,
+    "département": "Loiret",
+    "grippe_65_ans_et_plus": 58.7,
+    "grippe_moins_de_65_ans_à_risque": 27.6,
+    "taux hospitalisation": 276
+  },
+  {
+    "année": 2023,
+    "département": "Loir-et-Cher",
+    "grippe_65_ans_et_plus": 56.1,
+    "grippe_moins_de_65_ans_à_risque": 28.3,
+    "taux hospitalisation": 198
+  },
+  {
+    "année": 2023,
+    "département": "Lot",
+    "grippe_65_ans_et_plus": 50,
+    "grippe_moins_de_65_ans_à_risque": 23.6,
+    "taux hospitalisation": 174
+  },
+  {
+    "année": 2023,
+    "département": "Lot-et-Garonne",
+    "grippe_65_ans_et_plus": 50.4,
+    "grippe_moins_de_65_ans_à_risque": 21.9,
+    "taux hospitalisation": 420
+  },
+  {
+    "année": 2023,
+    "département": "Lozère",
+    "grippe_65_ans_et_plus": 51.1,
+    "grippe_moins_de_65_ans_à_risque": 27.3,
+    "taux hospitalisation": 50
+  },
+  {
+    "année": 2023,
+    "département": "Maine-et-Loire",
+    "grippe_65_ans_et_plus": 58.7,
+    "grippe_moins_de_65_ans_à_risque": 27.3,
+    "taux hospitalisation": 109
+  },
+  {
+    "année": 2023,
+    "département": "Manche",
+    "grippe_65_ans_et_plus": 58,
+    "grippe_moins_de_65_ans_à_risque": 30.3,
+    "taux hospitalisation": 583
+  },
+  {
+    "année": 2023,
+    "département": "Marne",
+    "grippe_65_ans_et_plus": 59.1,
+    "grippe_moins_de_65_ans_à_risque": 30,
+    "taux hospitalisation": 151
+  },
+  {
+    "année": 2023,
+    "département": "Mayenne",
+    "grippe_65_ans_et_plus": 54.5,
+    "grippe_moins_de_65_ans_à_risque": 26,
+    "taux hospitalisation": 601
+  },
+  {
+    "année": 2023,
+    "département": "Meurthe-et-Moselle",
+    "grippe_65_ans_et_plus": 59.2,
+    "grippe_moins_de_65_ans_à_risque": 30,
+    "taux hospitalisation": 791
+  },
+  {
+    "année": 2023,
+    "département": "Meuse",
+    "grippe_65_ans_et_plus": 54.9,
+    "grippe_moins_de_65_ans_à_risque": 27.7,
+    "taux hospitalisation": 0
+  },
+  {
+    "année": 2023,
+    "département": "Morbihan",
+    "grippe_65_ans_et_plus": 57.5,
+    "grippe_moins_de_65_ans_à_risque": 25.6,
+    "taux hospitalisation": 247
+  },
+  {
+    "année": 2023,
+    "département": "Moselle",
+    "grippe_65_ans_et_plus": 53.6,
+    "grippe_moins_de_65_ans_à_risque": 25.3,
+    "taux hospitalisation": 499
+  },
+  {
+    "année": 2023,
+    "département": "Nièvre",
+    "grippe_65_ans_et_plus": 55.2,
+    "grippe_moins_de_65_ans_à_risque": 27.3,
+    "taux hospitalisation": 126
+  },
+  {
+    "année": 2023,
+    "département": "Nord",
+    "grippe_65_ans_et_plus": 56.6,
+    "grippe_moins_de_65_ans_à_risque": 29.4,
+    "taux hospitalisation": 357
+  },
+  {
+    "année": 2023,
+    "département": "Oise",
+    "grippe_65_ans_et_plus": 53.5,
+    "grippe_moins_de_65_ans_à_risque": 25.2,
+    "taux hospitalisation": 210
+  },
+  {
+    "année": 2023,
+    "département": "Orne",
+    "grippe_65_ans_et_plus": 53.2,
+    "grippe_moins_de_65_ans_à_risque": 27.7,
+    "taux hospitalisation": 258
+  },
+  {
+    "année": 2023,
+    "département": "Paris",
+    "grippe_65_ans_et_plus": 51.9,
+    "grippe_moins_de_65_ans_à_risque": 24.4,
+    "taux hospitalisation": 208
+  },
+  {
+    "année": 2023,
+    "département": "Pas-de-Calais",
+    "grippe_65_ans_et_plus": 58.2,
+    "grippe_moins_de_65_ans_à_risque": 32.6,
+    "taux hospitalisation": 243
+  },
+  {
+    "année": 2023,
+    "département": "Puy-de-Dôme",
+    "grippe_65_ans_et_plus": 56.7,
+    "grippe_moins_de_65_ans_à_risque": 29.1,
+    "taux hospitalisation": 509
+  },
+  {
+    "année": 2023,
+    "département": "Pyrénées-Atlantiques",
+    "grippe_65_ans_et_plus": 57.1,
+    "grippe_moins_de_65_ans_à_risque": 25.1,
+    "taux hospitalisation": 307
+  },
+  {
+    "année": 2023,
+    "département": "Pyrénées-Orientales",
+    "grippe_65_ans_et_plus": 50.3,
+    "grippe_moins_de_65_ans_à_risque": 21.5,
+    "taux hospitalisation": 633
+  },
+  {
+    "année": 2023,
+    "département": "Rhône",
+    "grippe_65_ans_et_plus": 56,
+    "grippe_moins_de_65_ans_à_risque": 25.9,
+    "taux hospitalisation": 448
+  },
+  {
+    "année": 2023,
+    "département": "Saône-et-Loire",
+    "grippe_65_ans_et_plus": 54,
+    "grippe_moins_de_65_ans_à_risque": 27.7,
+    "taux hospitalisation": 722
+  },
+  {
+    "année": 2023,
+    "département": "Sarthe",
+    "grippe_65_ans_et_plus": 56.7,
+    "grippe_moins_de_65_ans_à_risque": 26.8,
+    "taux hospitalisation": 321
+  },
+  {
+    "année": 2023,
+    "département": "Savoie",
+    "grippe_65_ans_et_plus": 52.2,
+    "grippe_moins_de_65_ans_à_risque": 25.3,
+    "taux hospitalisation": 440
+  },
+  {
+    "année": 2023,
+    "département": "Seine-et-Marne",
+    "grippe_65_ans_et_plus": 54.8,
+    "grippe_moins_de_65_ans_à_risque": 22.7,
+    "taux hospitalisation": 330
+  },
+  {
+    "année": 2023,
+    "département": "Seine-Maritime",
+    "grippe_65_ans_et_plus": 61.4,
+    "grippe_moins_de_65_ans_à_risque": 31.7,
+    "taux hospitalisation": 196
+  },
+  {
+    "année": 2023,
+    "département": "Seine-Saint-Denis",
+    "grippe_65_ans_et_plus": 44.4,
+    "grippe_moins_de_65_ans_à_risque": 19.5,
+    "taux hospitalisation": 485
+  },
+  {
+    "année": 2023,
+    "département": "Somme",
+    "grippe_65_ans_et_plus": 59.6,
+    "grippe_moins_de_65_ans_à_risque": 31.5,
+    "taux hospitalisation": 785
+  },
+  {
+    "année": 2023,
+    "département": "Tarn",
+    "grippe_65_ans_et_plus": 52.8,
+    "grippe_moins_de_65_ans_à_risque": 24.4,
+    "taux hospitalisation": 1392
+  },
+  {
+    "année": 2023,
+    "département": "Tarn-et-Garonne",
+    "grippe_65_ans_et_plus": 52,
+    "grippe_moins_de_65_ans_à_risque": 24.5,
+    "taux hospitalisation": 177
+  },
+  {
+    "année": 2023,
+    "département": "Territoire de Belfort",
+    "grippe_65_ans_et_plus": 48.1,
+    "grippe_moins_de_65_ans_à_risque": 23.1,
+    "taux hospitalisation": 313
+  },
+  {
+    "année": 2023,
+    "département": "Val-de-Marne",
+    "grippe_65_ans_et_plus": 53.5,
+    "grippe_moins_de_65_ans_à_risque": 23,
+    "taux hospitalisation": 392
+  },
+  {
+    "année": 2023,
+    "département": "Val-d'Oise",
+    "grippe_65_ans_et_plus": 51,
+    "grippe_moins_de_65_ans_à_risque": 20.2,
+    "taux hospitalisation": 271
+  },
+  {
+    "année": 2023,
+    "département": "Var",
+    "grippe_65_ans_et_plus": 50.3,
+    "grippe_moins_de_65_ans_à_risque": 21.5,
+    "taux hospitalisation": 848
+  },
+  {
+    "année": 2023,
+    "département": "Vaucluse",
+    "grippe_65_ans_et_plus": 48.8,
+    "grippe_moins_de_65_ans_à_risque": 21.1,
+    "taux hospitalisation": 1334
+  },
+  {
+    "année": 2023,
+    "département": "Vendée",
+    "grippe_65_ans_et_plus": 57.9,
+    "grippe_moins_de_65_ans_à_risque": 27.7,
+    "taux hospitalisation": 245
+  },
+  {
+    "année": 2023,
+    "département": "Vienne",
+    "grippe_65_ans_et_plus": 57.9,
+    "grippe_moins_de_65_ans_à_risque": 29.1,
+    "taux hospitalisation": 332
+  },
+  {
+    "année": 2023,
+    "département": "Vosges",
+    "grippe_65_ans_et_plus": 53.2,
+    "grippe_moins_de_65_ans_à_risque": 28.3,
+    "taux hospitalisation": 765
+  },
+  {
+    "année": 2023,
+    "département": "Yonne",
+    "grippe_65_ans_et_plus": 53.9,
+    "grippe_moins_de_65_ans_à_risque": 25.7,
+    "taux hospitalisation": 227
+  },
+  {
+    "année": 2023,
+    "département": "Yvelines",
+    "grippe_65_ans_et_plus": 55.7,
+    "grippe_moins_de_65_ans_à_risque": 23.3,
+    "taux hospitalisation": 163
+  },
+  {
+    "année": 2024,
+    "département": "Ain",
+    "grippe_65_ans_et_plus": 51.2,
+    "grippe_moins_de_65_ans_à_risque": 24.7,
+    "taux hospitalisation": 1048
+  },
+  {
+    "année": 2024,
+    "département": "Aisne",
+    "grippe_65_ans_et_plus": 55.2,
+    "grippe_moins_de_65_ans_à_risque": 28.2,
+    "taux hospitalisation": 642
+  },
+  {
+    "année": 2024,
+    "département": "Allier",
+    "grippe_65_ans_et_plus": 53.3,
+    "grippe_moins_de_65_ans_à_risque": 26.4,
+    "taux hospitalisation": 817
+  },
+  {
+    "année": 2024,
+    "département": "Alpes-de-Haute-Provence",
+    "grippe_65_ans_et_plus": 47.1,
+    "grippe_moins_de_65_ans_à_risque": 21.9,
+    "taux hospitalisation": 998
+  },
+  {
+    "année": 2024,
+    "département": "Alpes-Maritimes",
+    "grippe_65_ans_et_plus": 48.7,
+    "grippe_moins_de_65_ans_à_risque": 20.5,
+    "taux hospitalisation": 1053
+  },
+  {
+    "année": 2024,
+    "département": "Ardèche",
+    "grippe_65_ans_et_plus": 48.6,
+    "grippe_moins_de_65_ans_à_risque": 23.4,
+    "taux hospitalisation": 637
+  },
+  {
+    "année": 2024,
+    "département": "Ardennes",
+    "grippe_65_ans_et_plus": 56.9,
+    "grippe_moins_de_65_ans_à_risque": 28.8,
+    "taux hospitalisation": 558
+  },
+  {
+    "année": 2024,
+    "département": "Ariège",
+    "grippe_65_ans_et_plus": 47.6,
+    "grippe_moins_de_65_ans_à_risque": 22.4,
+    "taux hospitalisation": 895
+  },
+  {
+    "année": 2024,
+    "département": "Aube",
+    "grippe_65_ans_et_plus": 53.1,
+    "grippe_moins_de_65_ans_à_risque": 25.4,
+    "taux hospitalisation": 1052
+  },
+  {
+    "année": 2024,
+    "département": "Aude",
+    "grippe_65_ans_et_plus": 51.2,
+    "grippe_moins_de_65_ans_à_risque": 23.2,
+    "taux hospitalisation": 697
+  },
+  {
+    "année": 2024,
+    "département": "Aveyron",
+    "grippe_65_ans_et_plus": 52.4,
+    "grippe_moins_de_65_ans_à_risque": 25.2,
+    "taux hospitalisation": 467
+  },
+  {
+    "année": 2024,
+    "département": "Bas-Rhin",
+    "grippe_65_ans_et_plus": 50.7,
+    "grippe_moins_de_65_ans_à_risque": 24.5,
+    "taux hospitalisation": 629
+  },
+  {
+    "année": 2024,
+    "département": "Bouches-du-Rhône",
+    "grippe_65_ans_et_plus": 50.7,
+    "grippe_moins_de_65_ans_à_risque": 21.6,
+    "taux hospitalisation": 1119
+  },
+  {
+    "année": 2024,
+    "département": "Calvados",
+    "grippe_65_ans_et_plus": 59,
+    "grippe_moins_de_65_ans_à_risque": 29.7,
+    "taux hospitalisation": 690
+  },
+  {
+    "année": 2024,
+    "département": "Cantal",
+    "grippe_65_ans_et_plus": 56.5,
+    "grippe_moins_de_65_ans_à_risque": 29.8,
+    "taux hospitalisation": 234
+  },
+  {
+    "année": 2024,
+    "département": "Charente",
+    "grippe_65_ans_et_plus": 54.3,
+    "grippe_moins_de_65_ans_à_risque": 26.2,
+    "taux hospitalisation": 357
+  },
+  {
+    "année": 2024,
+    "département": "Charente-Maritime",
+    "grippe_65_ans_et_plus": 55.5,
+    "grippe_moins_de_65_ans_à_risque": 26.2,
+    "taux hospitalisation": 882
+  },
+  {
+    "année": 2024,
+    "département": "Cher",
+    "grippe_65_ans_et_plus": 53.7,
+    "grippe_moins_de_65_ans_à_risque": 26.5,
+    "taux hospitalisation": 406
+  },
+  {
+    "année": 2024,
+    "département": "Corrèze",
+    "grippe_65_ans_et_plus": 53.6,
+    "grippe_moins_de_65_ans_à_risque": 26.1,
+    "taux hospitalisation": 486
+  },
+  {
+    "année": 2024,
+    "département": "Corse-du-Sud",
+    "grippe_65_ans_et_plus": 45.5,
+    "grippe_moins_de_65_ans_à_risque": 18.3,
+    "taux hospitalisation": 1098
+  },
+  {
+    "année": 2024,
+    "département": "Côte-d'Or",
+    "grippe_65_ans_et_plus": 56.6,
+    "grippe_moins_de_65_ans_à_risque": 28.6,
+    "taux hospitalisation": 816
+  },
+  {
+    "année": 2024,
+    "département": "Côtes-d'Armor",
+    "grippe_65_ans_et_plus": 57.3,
+    "grippe_moins_de_65_ans_à_risque": 26,
+    "taux hospitalisation": 767
+  },
+  {
+    "année": 2024,
+    "département": "Creuse",
+    "grippe_65_ans_et_plus": 51.3,
+    "grippe_moins_de_65_ans_à_risque": 27.6,
+    "taux hospitalisation": 357
+  },
+  {
+    "année": 2024,
+    "département": "Deux-Sèvres",
+    "grippe_65_ans_et_plus": 53.8,
+    "grippe_moins_de_65_ans_à_risque": 26.9,
+    "taux hospitalisation": 676
+  },
+  {
+    "année": 2024,
+    "département": "Dordogne",
+    "grippe_65_ans_et_plus": 50.5,
+    "grippe_moins_de_65_ans_à_risque": 24.5,
+    "taux hospitalisation": 587
+  },
+  {
+    "année": 2024,
+    "département": "Doubs",
+    "grippe_65_ans_et_plus": 51.5,
+    "grippe_moins_de_65_ans_à_risque": 24,
+    "taux hospitalisation": 784
+  },
+  {
+    "année": 2024,
+    "département": "Drôme",
+    "grippe_65_ans_et_plus": 50.9,
+    "grippe_moins_de_65_ans_à_risque": 24.1,
+    "taux hospitalisation": 656
+  },
+  {
+    "année": 2024,
+    "département": "Essonne",
+    "grippe_65_ans_et_plus": 55.5,
+    "grippe_moins_de_65_ans_à_risque": 23,
+    "taux hospitalisation": 778
+  },
+  {
+    "année": 2024,
+    "département": "Eure",
+    "grippe_65_ans_et_plus": 53.9,
+    "grippe_moins_de_65_ans_à_risque": 26.7,
+    "taux hospitalisation": 321
+  },
+  {
+    "année": 2024,
+    "département": "Eure-et-Loir",
+    "grippe_65_ans_et_plus": 55.1,
+    "grippe_moins_de_65_ans_à_risque": 25.5,
+    "taux hospitalisation": 361
+  },
+  {
+    "année": 2024,
+    "département": "Finistère",
+    "grippe_65_ans_et_plus": 63.2,
+    "grippe_moins_de_65_ans_à_risque": 30.9,
+    "taux hospitalisation": 570
+  },
+  {
+    "année": 2024,
+    "département": "Gard",
+    "grippe_65_ans_et_plus": 52.8,
+    "grippe_moins_de_65_ans_à_risque": 24,
+    "taux hospitalisation": 390
+  },
+  {
+    "année": 2024,
+    "département": "Gers",
+    "grippe_65_ans_et_plus": 52,
+    "grippe_moins_de_65_ans_à_risque": 26.3,
+    "taux hospitalisation": 1342
+  },
+  {
+    "année": 2024,
+    "département": "Gironde",
+    "grippe_65_ans_et_plus": 59.1,
+    "grippe_moins_de_65_ans_à_risque": 27.1,
+    "taux hospitalisation": 478
+  },
+  {
+    "année": 2024,
+    "département": "Haute-Corse",
+    "grippe_65_ans_et_plus": 46.5,
+    "grippe_moins_de_65_ans_à_risque": 18.8,
+    "taux hospitalisation": 589
+  },
+  {
+    "année": 2024,
+    "département": "Haute-Garonne",
+    "grippe_65_ans_et_plus": 56.3,
+    "grippe_moins_de_65_ans_à_risque": 25,
+    "taux hospitalisation": 211
+  },
+  {
+    "année": 2024,
+    "département": "Haute-Loire",
+    "grippe_65_ans_et_plus": 47.2,
+    "grippe_moins_de_65_ans_à_risque": 23.7,
+    "taux hospitalisation": 1188
+  },
+  {
+    "année": 2024,
+    "département": "Haute-Marne",
+    "grippe_65_ans_et_plus": 51.1,
+    "grippe_moins_de_65_ans_à_risque": 25.2,
+    "taux hospitalisation": 1410
+  },
+  {
+    "année": 2024,
+    "département": "Hautes-Alpes",
+    "grippe_65_ans_et_plus": 50.3,
+    "grippe_moins_de_65_ans_à_risque": 23.4,
+    "taux hospitalisation": 1361
+  },
+  {
+    "année": 2024,
+    "département": "Haute-Saône",
+    "grippe_65_ans_et_plus": 48.1,
+    "grippe_moins_de_65_ans_à_risque": 24,
+    "taux hospitalisation": 779
+  },
+  {
+    "année": 2024,
+    "département": "Haute-Savoie",
+    "grippe_65_ans_et_plus": 48.2,
+    "grippe_moins_de_65_ans_à_risque": 22.2,
+    "taux hospitalisation": 1102
+  },
+  {
+    "année": 2024,
+    "département": "Hautes-Pyrénées",
+    "grippe_65_ans_et_plus": 52.6,
+    "grippe_moins_de_65_ans_à_risque": 24.9,
+    "taux hospitalisation": 680
+  },
+  {
+    "année": 2024,
+    "département": "Haute-Vienne",
+    "grippe_65_ans_et_plus": 57.1,
+    "grippe_moins_de_65_ans_à_risque": 29,
+    "taux hospitalisation": 1177
+  },
+  {
+    "année": 2024,
+    "département": "Haut-Rhin",
+    "grippe_65_ans_et_plus": 44.9,
+    "grippe_moins_de_65_ans_à_risque": 21.2,
+    "taux hospitalisation": 915
+  },
+  {
+    "année": 2024,
+    "département": "Hauts-de-Seine",
+    "grippe_65_ans_et_plus": 54.4,
+    "grippe_moins_de_65_ans_à_risque": 24.6,
+    "taux hospitalisation": 859
+  },
+  {
+    "année": 2024,
+    "département": "Hérault",
+    "grippe_65_ans_et_plus": 54.5,
+    "grippe_moins_de_65_ans_à_risque": 24.2,
+    "taux hospitalisation": 522
+  },
+  {
+    "année": 2024,
+    "département": "Ille-et-Vilaine",
+    "grippe_65_ans_et_plus": 59.2,
+    "grippe_moins_de_65_ans_à_risque": 28.3,
+    "taux hospitalisation": 614
+  },
+  {
+    "année": 2024,
+    "département": "Indre",
+    "grippe_65_ans_et_plus": 50.5,
+    "grippe_moins_de_65_ans_à_risque": 25.8,
+    "taux hospitalisation": 150
+  },
+  {
+    "année": 2024,
+    "département": "Indre-et-Loire",
+    "grippe_65_ans_et_plus": 59.5,
+    "grippe_moins_de_65_ans_à_risque": 30.9,
+    "taux hospitalisation": 419
+  },
+  {
+    "année": 2024,
+    "département": "Isère",
+    "grippe_65_ans_et_plus": 55.1,
+    "grippe_moins_de_65_ans_à_risque": 27.6,
+    "taux hospitalisation": 941
+  },
+  {
+    "année": 2024,
+    "département": "Jura",
+    "grippe_65_ans_et_plus": 48.5,
+    "grippe_moins_de_65_ans_à_risque": 23.6,
+    "taux hospitalisation": 626
+  },
+  {
+    "année": 2024,
+    "département": "Landes",
+    "grippe_65_ans_et_plus": 56.5,
+    "grippe_moins_de_65_ans_à_risque": 25.2,
+    "taux hospitalisation": 885
+  },
+  {
+    "année": 2024,
+    "département": "Loire",
+    "grippe_65_ans_et_plus": 51.9,
+    "grippe_moins_de_65_ans_à_risque": 25.1,
+    "taux hospitalisation": 839
+  },
+  {
+    "année": 2024,
+    "département": "Loire-Atlantique",
+    "grippe_65_ans_et_plus": 60.4,
+    "grippe_moins_de_65_ans_à_risque": 28.2,
+    "taux hospitalisation": 736
+  },
+  {
+    "année": 2024,
+    "département": "Loiret",
+    "grippe_65_ans_et_plus": 57.9,
+    "grippe_moins_de_65_ans_à_risque": 27,
+    "taux hospitalisation": 709
+  },
+  {
+    "année": 2024,
+    "département": "Loir-et-Cher",
+    "grippe_65_ans_et_plus": 55.5,
+    "grippe_moins_de_65_ans_à_risque": 27.9,
+    "taux hospitalisation": 248
+  },
+  {
+    "année": 2024,
+    "département": "Lot",
+    "grippe_65_ans_et_plus": 49.5,
+    "grippe_moins_de_65_ans_à_risque": 23.3,
+    "taux hospitalisation": 430
+  },
+  {
+    "année": 2024,
+    "département": "Lot-et-Garonne",
+    "grippe_65_ans_et_plus": 49.5,
+    "grippe_moins_de_65_ans_à_risque": 21.8,
+    "taux hospitalisation": 935
+  },
+  {
+    "année": 2024,
+    "département": "Lozère",
+    "grippe_65_ans_et_plus": 50.1,
+    "grippe_moins_de_65_ans_à_risque": 26.6,
+    "taux hospitalisation": 508
+  },
+  {
+    "année": 2024,
+    "département": "Maine-et-Loire",
+    "grippe_65_ans_et_plus": 58.1,
+    "grippe_moins_de_65_ans_à_risque": 27.3,
+    "taux hospitalisation": 531
+  },
+  {
+    "année": 2024,
+    "département": "Manche",
+    "grippe_65_ans_et_plus": 57.7,
+    "grippe_moins_de_65_ans_à_risque": 30.3,
+    "taux hospitalisation": 1151
+  },
+  {
+    "année": 2024,
+    "département": "Marne",
+    "grippe_65_ans_et_plus": 58.6,
+    "grippe_moins_de_65_ans_à_risque": 29.4,
+    "taux hospitalisation": 502
+  },
+  {
+    "année": 2024,
+    "département": "Mayenne",
+    "grippe_65_ans_et_plus": 53.4,
+    "grippe_moins_de_65_ans_à_risque": 25.8,
+    "taux hospitalisation": 595
+  },
+  {
+    "année": 2024,
+    "département": "Meurthe-et-Moselle",
+    "grippe_65_ans_et_plus": 58.9,
+    "grippe_moins_de_65_ans_à_risque": 29.9,
+    "taux hospitalisation": 1180
+  },
+  {
+    "année": 2024,
+    "département": "Meuse",
+    "grippe_65_ans_et_plus": 53.9,
+    "grippe_moins_de_65_ans_à_risque": 27.1,
+    "taux hospitalisation": 1099
+  },
+  {
+    "année": 2024,
+    "département": "Morbihan",
+    "grippe_65_ans_et_plus": 57.5,
+    "grippe_moins_de_65_ans_à_risque": 25.5,
+    "taux hospitalisation": 795
+  },
+  {
+    "année": 2024,
+    "département": "Moselle",
+    "grippe_65_ans_et_plus": 53.1,
+    "grippe_moins_de_65_ans_à_risque": 25,
+    "taux hospitalisation": 907
+  },
+  {
+    "année": 2024,
+    "département": "Nièvre",
+    "grippe_65_ans_et_plus": 53.6,
+    "grippe_moins_de_65_ans_à_risque": 26.4,
+    "taux hospitalisation": 803
+  },
+  {
+    "année": 2024,
+    "département": "Nord",
+    "grippe_65_ans_et_plus": 55.8,
+    "grippe_moins_de_65_ans_à_risque": 29.2,
+    "taux hospitalisation": 863
+  },
+  {
+    "année": 2024,
+    "département": "Oise",
+    "grippe_65_ans_et_plus": 52.8,
+    "grippe_moins_de_65_ans_à_risque": 24.5,
+    "taux hospitalisation": 600
+  },
+  {
+    "année": 2024,
+    "département": "Orne",
+    "grippe_65_ans_et_plus": 52.2,
+    "grippe_moins_de_65_ans_à_risque": 26.7,
+    "taux hospitalisation": 885
+  },
+  {
+    "année": 2024,
+    "département": "Paris",
+    "grippe_65_ans_et_plus": 53.4,
+    "grippe_moins_de_65_ans_à_risque": 26.3,
+    "taux hospitalisation": 594
+  },
+  {
+    "année": 2024,
+    "département": "Pas-de-Calais",
+    "grippe_65_ans_et_plus": 57.3,
+    "grippe_moins_de_65_ans_à_risque": 31.6,
+    "taux hospitalisation": 1051
+  },
+  {
+    "année": 2024,
+    "département": "Puy-de-Dôme",
+    "grippe_65_ans_et_plus": 56.7,
+    "grippe_moins_de_65_ans_à_risque": 28.9,
+    "taux hospitalisation": 708
+  },
+  {
+    "année": 2024,
+    "département": "Pyrénées-Atlantiques",
+    "grippe_65_ans_et_plus": 57,
+    "grippe_moins_de_65_ans_à_risque": 25.4,
+    "taux hospitalisation": 600
+  },
+  {
+    "année": 2024,
+    "département": "Pyrénées-Orientales",
+    "grippe_65_ans_et_plus": 49.6,
+    "grippe_moins_de_65_ans_à_risque": 21.1,
+    "taux hospitalisation": 723
+  },
+  {
+    "année": 2024,
+    "département": "Rhône",
+    "grippe_65_ans_et_plus": 56.2,
+    "grippe_moins_de_65_ans_à_risque": 26.2,
+    "taux hospitalisation": 810
+  },
+  {
+    "année": 2024,
+    "département": "Saône-et-Loire",
+    "grippe_65_ans_et_plus": 53.1,
+    "grippe_moins_de_65_ans_à_risque": 26.9,
+    "taux hospitalisation": 1048
+  },
+  {
+    "année": 2024,
+    "département": "Sarthe",
+    "grippe_65_ans_et_plus": 56.2,
+    "grippe_moins_de_65_ans_à_risque": 26.2,
+    "taux hospitalisation": 579
+  },
+  {
+    "année": 2024,
+    "département": "Savoie",
+    "grippe_65_ans_et_plus": 51.8,
+    "grippe_moins_de_65_ans_à_risque": 25.7,
+    "taux hospitalisation": 870
+  },
+  {
+    "année": 2024,
+    "département": "Seine-et-Marne",
+    "grippe_65_ans_et_plus": 54.2,
+    "grippe_moins_de_65_ans_à_risque": 22.4,
+    "taux hospitalisation": 797
+  },
+  {
+    "année": 2024,
+    "département": "Seine-Maritime",
+    "grippe_65_ans_et_plus": 60.4,
+    "grippe_moins_de_65_ans_à_risque": 31,
+    "taux hospitalisation": 514
+  },
+  {
+    "année": 2024,
+    "département": "Seine-Saint-Denis",
+    "grippe_65_ans_et_plus": 43.8,
+    "grippe_moins_de_65_ans_à_risque": 19.5,
+    "taux hospitalisation": 1298
+  },
+  {
+    "année": 2024,
+    "département": "Somme",
+    "grippe_65_ans_et_plus": 58.5,
+    "grippe_moins_de_65_ans_à_risque": 30.5,
+    "taux hospitalisation": 1044
+  },
+  {
+    "année": 2024,
+    "département": "Tarn",
+    "grippe_65_ans_et_plus": 52.7,
+    "grippe_moins_de_65_ans_à_risque": 24.6,
+    "taux hospitalisation": 1421
+  },
+  {
+    "année": 2024,
+    "département": "Tarn-et-Garonne",
+    "grippe_65_ans_et_plus": 51.8,
+    "grippe_moins_de_65_ans_à_risque": 24.2,
+    "taux hospitalisation": 871
+  },
+  {
+    "année": 2024,
+    "département": "Territoire de Belfort",
+    "grippe_65_ans_et_plus": 47.3,
+    "grippe_moins_de_65_ans_à_risque": 22.9,
+    "taux hospitalisation": 382
+  },
+  {
+    "année": 2024,
+    "département": "Val-de-Marne",
+    "grippe_65_ans_et_plus": 53.6,
+    "grippe_moins_de_65_ans_à_risque": 23.5,
+    "taux hospitalisation": 972
+  },
+  {
+    "année": 2024,
+    "département": "Val-d'Oise",
+    "grippe_65_ans_et_plus": 50.8,
+    "grippe_moins_de_65_ans_à_risque": 20.1,
+    "taux hospitalisation": 883
+  },
+  {
+    "année": 2024,
+    "département": "Var",
+    "grippe_65_ans_et_plus": 50.1,
+    "grippe_moins_de_65_ans_à_risque": 21.3,
+    "taux hospitalisation": 1067
+  },
+  {
+    "année": 2024,
+    "département": "Vaucluse",
+    "grippe_65_ans_et_plus": 48.7,
+    "grippe_moins_de_65_ans_à_risque": 21.3,
+    "taux hospitalisation": 1291
+  },
+  {
+    "année": 2024,
+    "département": "Vendée",
+    "grippe_65_ans_et_plus": 57.5,
+    "grippe_moins_de_65_ans_à_risque": 27.3,
+    "taux hospitalisation": 801
+  },
+  {
+    "année": 2024,
+    "département": "Vienne",
+    "grippe_65_ans_et_plus": 57.2,
+    "grippe_moins_de_65_ans_à_risque": 29.1,
+    "taux hospitalisation": 770
+  },
+  {
+    "année": 2024,
+    "département": "Vosges",
+    "grippe_65_ans_et_plus": 52.2,
+    "grippe_moins_de_65_ans_à_risque": 27.6,
+    "taux hospitalisation": 1458
+  },
+  {
+    "année": 2024,
+    "département": "Yonne",
+    "grippe_65_ans_et_plus": 52.9,
+    "grippe_moins_de_65_ans_à_risque": 24.3,
+    "taux hospitalisation": 424
+  },
+  {
+    "année": 2024,
+    "département": "Yvelines",
+    "grippe_65_ans_et_plus": 55.9,
+    "grippe_moins_de_65_ans_à_risque": 23.9,
+    "taux hospitalisation": 576
+  }
+]
